@@ -1,5 +1,21 @@
 package com.skilldistillery.entities;
 
-public class AirField {
+import java.util.List;
 
+public class AirField {
+	private List<Jet> jets; 
+	
+	public AirField() {}
+	
+	public AirField(List<Jet> jets) {
+		this.jets = jets;
+	}
+	
+	public void addJet(Jet jet) {
+		jets.add(jet);
+	}
+	
+	public void removeJet(Jet jet) {
+		jets.remove(jet);
+	}
 }
