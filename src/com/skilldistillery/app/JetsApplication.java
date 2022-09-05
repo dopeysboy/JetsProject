@@ -210,11 +210,21 @@ public class JetsApplication {
 	}
 	
 	public void save() {
+		System.out.println("What would you like to name your save file?");
+		String fileName = kb.nextLine();
 		
+		if(fileName.toUpperCase().equals("JETS")) {
+			System.err.println("You cannot name your file the same as the default file!");
+		} else {
+			MyFileReaderWriter.saveToFile(jets, fileName);
+		}
 	}
 	
 	public void load() {
+		System.out.print("Please enter the name of the file you would like to load: ");
+		String fileName = kb.nextLine();
 		
+		jets = new AirField(MyFileReaderWriter.readJetFromFile(fileName));
 	}
 	
 	public void getUserInput() {

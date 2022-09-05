@@ -15,6 +15,9 @@ public class Pilot {
 		this.name = name;
 	}
 	
+	public String getName() {
+		return name;
+	}
 	@Override
 	public String toString() {
 		StringBuilder builder = new StringBuilder();

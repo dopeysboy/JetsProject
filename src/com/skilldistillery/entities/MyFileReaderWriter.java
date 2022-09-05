@@ -1,8 +1,11 @@
 package com.skilldistillery.entities;
 
 import java.io.BufferedReader;
+import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -25,6 +28,8 @@ public class MyFileReaderWriter {
 				
 				outputList.add(makeJetGivenStringArray(jetStrings));
 			}
+		} catch(FileNotFoundException e) {
+			System.err.println("File does not exist!");
 		} catch(IOException e) {
 			e.printStackTrace();
 		} catch (Exception e) {
@@ -73,6 +78,26 @@ public class MyFileReaderWriter {
 		}
 		
 		return returnArrayList;
+	}
+	
+	public static void saveToFile(AirField jets, String file) {
+		try(PrintWriter bufOut = new PrintWriter(new FileWriter(file + ".txt"))){
+			for(Jet j : jets.getJets()) {
+				StringBuilder sb = new StringBuilder();
+				sb.append(j.getClass().getSimpleName());
+				sb.append(",").append(j.getModel());
+				sb.append(",").append(j.getSpeed());
+				sb.append(",").append(j.getRange());
+				sb.append(",").append(j.getPrice());
+				sb.append(",").append(j.getPilotName());
+				
+				bufOut.println(sb.toString());
+			}
+			bufOut.close();
+			
+		} catch(IOException e) {
+			e.printStackTrace();
+		}
 	}
 	
 	private static Jet makeJetGivenStringArray(String[] rawJet) throws Exception {

@@ -64,6 +64,9 @@ public abstract class Jet {
 		return price;
 	}
 
+	public String getPilotName() {
+		return pilot.getName();
+	}
 
 	public void setPrice(double price) {
 		this.price = price;
