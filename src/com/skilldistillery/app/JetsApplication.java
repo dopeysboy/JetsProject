@@ -1,18 +1,32 @@
 package com.skilldistillery.app;
 
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Scanner;
+
+import com.skilldistillery.entities.Jet;
+import com.skilldistillery.entities.MyFileReader;
+
 public class JetsApplication {
 
+	private Scanner kb = new Scanner(System.in);
+	private final String fileLocation = "Jets.txt";
+	public List<Jet> jets = new LinkedList<>();
+	boolean keepRunning = true;
+	
 	public static void main(String[] args) {
 		JetsApplication ja = new JetsApplication();
 		ja.run();
 	}
 
 	public void run() {
-		displayUserMenu();
-	}
-
-	public void readFromFile() {
+		MyFileReader mfr = new MyFileReader();
+		mfr.readJetFromFile(jets, fileLocation);
 		
+		while(keepRunning) {
+			displayUserMenu();
+			getUserInput();
+		}
 	}
 	
 	public void displayUserMenu() {
@@ -32,7 +46,10 @@ public class JetsApplication {
 	}
 	
 	public void listFleet() {
-		
+		for(Jet j : jets) {
+			System.out.println(j);
+		}
+		System.out.println();
 	}
 	
 	public void flyAll() {
@@ -61,5 +78,48 @@ public class JetsApplication {
 	
 	public void removeJet() {
 		
+	}
+	
+	public void getUserInput() {
+		String userInput = kb.nextLine();
+		
+		try {
+			int usrChoice = Integer.parseInt(userInput);
+			switch (usrChoice) {
+				case 1:
+					listFleet();
+					break;
+				case 2:
+					flyAll();
+					break;
+				case 3:
+					viewFastest();
+					break;
+				case 4:
+					viewFarthest();
+					break;
+				case 5:
+					loadCargo();
+					break;
+				case 6:
+					war();
+					break;
+				case 7:
+					addJet();
+					break;
+				case 8:
+					removeJet();
+					break;
+				case 9:
+					System.out.println("Goodbye!");
+					keepRunning = false;
+					break;
+				default:
+					System.err.println("Please enter a valid number 1-9");
+					break;
+			}
+		} catch (Exception e) {
+			System.err.println("Please enter a valid number 1-9");
+		}
 	}
 }

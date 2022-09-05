@@ -1,6 +1,6 @@
-FighterJet,Warthog,420,800,1_500_000
-BomberPlane,B52,650,8800,4_000_000
-CargoPlane,Osprey,351,1100,3_000_000
-CommercialJet,Boeing,500,1000,1_300_000
+FighterJet,Warthog,420,800,1500000
+BomberPlane,B52,650,8800,4000000
+CargoPlane,Osprey,351,1100,3000000
+CommercialJet,Boeing,500,1000,1300000
 FighterJet,Super Duper Extreme Killer Plane,1000,50000,3.50
 JetImpl,Generic Jet,50,51,52
