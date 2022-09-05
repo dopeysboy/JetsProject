@@ -36,12 +36,12 @@ public class JetsApplication {
 	
 	public void displayUserMenu() {
 		StringBuilder sb = new StringBuilder();
-		sb.append("------------Main Menu------------\n");
+		sb.append("\n------------Main Menu------------\n");
 		sb.append("1. List fleet\n");
 		sb.append("2. Fly all jets\n");
 		sb.append("3. View fastest jet\n");
 		sb.append("4. View jet with longest range\n");
-		sb.append("5. Load all Cargo Jets\n");
+		sb.append("5. Load all carriers\n");
 		sb.append("6. War in the skies!\n");
 		sb.append("7. Add a jet to Fleet\n");
 		sb.append("8. Remove a jet from Fleet\n");
@@ -54,7 +54,6 @@ public class JetsApplication {
 		for(Jet j : jets) {
 			System.out.println(j);
 		}
-		System.out.println();
 	}
 	
 	public void flyAll() {
@@ -64,7 +63,17 @@ public class JetsApplication {
 	}
 	
 	public void viewFastest() {
+		double fastest = jets.get(0).getSpeed();
+		Jet fastestJet = jets.get(0);
 		
+		for(Jet j : jets) {
+			if(j.getSpeed() > fastest) {
+				fastest = j.getSpeed();
+				fastestJet = j;
+			}
+		}
+		
+		System.out.println(fastestJet);
 	}
 	
 	public void viewFarthest() {
