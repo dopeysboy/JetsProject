@@ -6,12 +6,12 @@ public class CargoPlane extends Jet implements ThingCarrier{
 	}
 
 	public void loadMeUp() {
-		System.out.println("I'M LOADING THINGS NOW");
+		System.out.println(this.model + " LOADING THINGS NOW");
 		
 	}
 
 	public void getItOut() {
-		System.out.println("GET ALL THIS CRAP OFF ME!");		
+		System.out.println(this.model + ": GET ALL THIS CRAP OFF ME!");		
 	}
 
 }

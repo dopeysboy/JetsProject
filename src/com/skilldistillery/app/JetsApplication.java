@@ -4,8 +4,13 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
 
+import com.skilldistillery.entities.BoomPlane;
+import com.skilldistillery.entities.CargoPlane;
 import com.skilldistillery.entities.Jet;
 import com.skilldistillery.entities.MyFileReader;
+import com.skilldistillery.entities.PeopleCarrier;
+import com.skilldistillery.entities.PewPewPlane;
+import com.skilldistillery.entities.ThingCarrier;
 
 public class JetsApplication {
 
@@ -53,7 +58,9 @@ public class JetsApplication {
 	}
 	
 	public void flyAll() {
-		
+		for(Jet j: jets) {
+			j.fly();
+		}
 	}
 	
 	public void viewFastest() {
@@ -65,11 +72,28 @@ public class JetsApplication {
 	}
 	
 	public void loadCargo() {
-		
+		for(Jet j: jets) {
+			if(j instanceof ThingCarrier) {
+				((ThingCarrier) j).loadMeUp();
+				((ThingCarrier) j).getItOut();
+			} else if(j instanceof PeopleCarrier) {
+				((PeopleCarrier) j).embarkPassengers();
+				((PeopleCarrier) j).debarkPassengers();
+			}
+			
+		}
 	}
 	
 	public void war() {
-		
+		for(Jet j: jets) {
+			if(j instanceof PewPewPlane) {
+				((PewPewPlane) j).fight();
+				((PewPewPlane) j).reload();
+				((PewPewPlane) j).fight();
+			} else if(j instanceof BoomPlane) {
+				((BoomPlane) j).bombTime();
+			}
+		}
 	}
 	
 	public void addJet() {

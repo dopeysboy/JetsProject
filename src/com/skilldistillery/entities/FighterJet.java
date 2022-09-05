@@ -7,10 +7,10 @@ public class FighterJet extends Jet implements PewPewPlane{
 	}
 
 	public void fight() {
-		System.out.println("BRRRRRRRRRRRRRRRT");
+		System.out.println(this.model + ": BRRRRRRRRRRRRRRRT");
 	}
 
 	public void reload() {
-		System.out.println("KA-CHK");
+		System.out.println(this.model + ": KA-CHK");
 	}
 }

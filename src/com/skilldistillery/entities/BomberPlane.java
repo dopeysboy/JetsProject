@@ -6,6 +6,6 @@ public class BomberPlane extends Jet implements BoomPlane{
 	}
 	
 	public void bombTime() {
-		System.out.println("*bomb dropping noises*\n*BOOM*");
+		System.out.println(this.model + ": *bomb dropping noises*\n*BOOM*");
 	}
 }

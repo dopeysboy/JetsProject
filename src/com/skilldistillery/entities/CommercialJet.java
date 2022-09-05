@@ -23,11 +23,11 @@ public class CommercialJet extends Jet implements PeopleCarrier{
 	}
 	
 	public void embarkPassengers() {
-		System.out.println("All aboard!");
+		System.out.println("All aboard the " + this.model + "!");
 	}
 
 	public void debarkPassengers() {
-		System.out.println("Get off my plane now");
+		System.out.println("Get off the " + this.model + " RIGHT NOW!");
 	}
 
 	@Override
