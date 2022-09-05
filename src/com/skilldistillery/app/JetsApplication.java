@@ -120,7 +120,24 @@ public class JetsApplication {
 	}
 	
 	public void addJet() {
+		String[] jetRaw = new String[5];
 		
+		System.out.print("Please enter the type of jet (your options are BomberPlane, CargoPlane, CommercialJet, FighterJet, and JetImpl): ");
+		jetRaw[0] = kb.nextLine();
+		
+		System.out.print("Please enter the model of your jet: ");
+		jetRaw[1] = kb.nextLine();
+		
+		System.out.print("Please enter the speed of your jet: ");
+		jetRaw[2] = kb.nextLine();
+		
+		System.out.print("Please enter the range of your jet: ");
+		jetRaw[3] = kb.nextLine();
+		
+		System.out.print("Please enter the price of your jet: ");
+		jetRaw[4] = kb.nextLine();
+		
+		jets.addJet(jets.createJet(jetRaw));
 	}
 	
 	public void removeJet() {
@@ -129,12 +146,9 @@ public class JetsApplication {
 		StringBuilder sb = new StringBuilder();
 		sb.append("Please enter which jet to delete: ");
 		
-		int x = 0;
-		
 		for(int i = 0; i < jets.getNumberOfJets(); i++) {
 			sb.append("\n  (").append(i).append(") ");
 			sb.append(jetsList.get(i).getModel());
-			x++;
 		}
 		
 		sb.append("\n  Input anything else to Cancel");

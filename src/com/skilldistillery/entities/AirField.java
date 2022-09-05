@@ -20,7 +20,9 @@ public class AirField {
 	}
 	
 	public void addJet(Jet jet) {
-		jets.add(jet);
+		if(jet != null) {
+			jets.add(jet);
+		}
 	}
 	
 	public void removeJet(String usrInput) {
@@ -51,6 +53,43 @@ public class AirField {
 			if(model.toUpperCase().equals(j.getModel())) {
 				return j;
 			}
+		}
+		
+		return null;
+	}
+	
+	public Jet createJet(String[] jetRaw) {
+		
+		try {
+			String jetType = jetRaw[0].toUpperCase();
+			
+			String make = jetRaw[1].toUpperCase();
+			double speed = Double.parseDouble(jetRaw[2]);
+			double range = Double.parseDouble(jetRaw[3]);
+			double price = Double.parseDouble(jetRaw[4]);
+			
+			switch (jetType) {
+				case "BOMBERPLANE":
+				case "BOMBER PLANE":
+					return new BomberPlane(make, speed, range, price);
+				case "CARGOPLANE":
+				case "CARGO PLANE":
+					return new CargoPlane(make, speed, range, price);
+				case "COMMERCIALJET":
+				case "COMMERCIAL JET":
+					return new CommercialJet(make, speed, range, price);
+				case "FIGHTERJET":
+				case "FIGHTER JET":
+					return new FighterJet(make, speed, range, price);
+				case "JETIMPL":
+				case "JET IMPL":
+					return new JetImpl(make, speed, range, price);
+				default:
+					System.err.println("You did not enter a valid jet type");
+					break;
+			}
+		} catch (NumberFormatException e) {
+			System.err.println("You did not enter a valid number for one of your fields");
 		}
 		
 		return null;
