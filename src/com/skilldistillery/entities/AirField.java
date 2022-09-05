@@ -67,26 +67,50 @@ public class AirField {
 			double speed = Double.parseDouble(jetRaw[2]);
 			double range = Double.parseDouble(jetRaw[3]);
 			double price = Double.parseDouble(jetRaw[4]);
+			String pilotName = jetRaw[5];
 			
-			switch (jetType) {
-				case "BOMBERPLANE":
-				case "BOMBER PLANE":
-					return new BomberPlane(make, speed, range, price);
-				case "CARGOPLANE":
-				case "CARGO PLANE":
-					return new CargoPlane(make, speed, range, price);
-				case "COMMERCIALJET":
-				case "COMMERCIAL JET":
-					return new CommercialJet(make, speed, range, price);
-				case "FIGHTERJET":
-				case "FIGHTER JET":
-					return new FighterJet(make, speed, range, price);
-				case "JETIMPL":
-				case "JET IMPL":
-					return new JetImpl(make, speed, range, price);
-				default:
-					System.err.println("You did not enter a valid jet type");
-					break;
+			if(!pilotName.toUpperCase().equals("RANDOM")) {
+				switch (jetType) {
+					case "BOMBERPLANE":
+					case "BOMBER PLANE":
+						return new BomberPlane(make, speed, range, price, pilotName);
+					case "CARGOPLANE":
+					case "CARGO PLANE":
+						return new CargoPlane(make, speed, range, price, pilotName);
+					case "COMMERCIALJET":
+					case "COMMERCIAL JET":
+						return new CommercialJet(make, speed, range, price, pilotName);
+					case "FIGHTERJET":
+					case "FIGHTER JET":
+						return new FighterJet(make, speed, range, price, pilotName);
+					case "JETIMPL":
+					case "JET IMPL":
+						return new JetImpl(make, speed, range, price, pilotName);
+					default:
+						System.err.println("You did not enter a valid jet type");
+						break;
+				}
+			} else {
+				switch (jetType) {
+					case "BOMBERPLANE":
+					case "BOMBER PLANE":
+						return new BomberPlane(make, speed, range, price);
+					case "CARGOPLANE":
+					case "CARGO PLANE":
+						return new CargoPlane(make, speed, range, price);
+					case "COMMERCIALJET":
+					case "COMMERCIAL JET":
+						return new CommercialJet(make, speed, range, price);
+					case "FIGHTERJET":
+					case "FIGHTER JET":
+						return new FighterJet(make, speed, range, price);
+					case "JETIMPL":
+					case "JET IMPL":
+						return new JetImpl(make, speed, range, price);
+					default:
+						System.err.println("You did not enter a valid jet type");
+						break;
+				}
 			}
 		} catch (NumberFormatException e) {
 			System.err.println("You did not enter a valid number for one of your fields");

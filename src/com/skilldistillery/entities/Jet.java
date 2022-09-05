@@ -18,6 +18,11 @@ public abstract class Jet {
 		this.pilot = new Pilot();
 	}
 	
+	public Jet(String model, double speed, double range, double price, String pilotName) {
+		this(model, speed, range, price);
+		this.pilot = new Pilot(pilotName);
+	}
+	
 	public void fly() {
 		System.out.println(this + " can fly for " + range/speed + " more hours.");
 	}

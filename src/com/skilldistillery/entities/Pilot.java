@@ -11,6 +11,10 @@ public class Pilot {
 		this.name = nameList.get(randName);
 	}
 
+	public Pilot(String name) {
+		this.name = name;
+	}
+	
 	@Override
 	public String toString() {
 		StringBuilder builder = new StringBuilder();

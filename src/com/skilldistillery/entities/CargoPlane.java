@@ -5,6 +5,10 @@ public class CargoPlane extends Jet implements ThingCarrier{
 		super(model, speed, range, price);
 	}
 
+	public CargoPlane(String model, double speed, double range, double price, String pilotName) {
+		super(model, speed, range, price, pilotName);
+	}
+
 	public void loadMeUp() {
 		System.out.println(this.model + " LOADING THINGS NOW");
 		

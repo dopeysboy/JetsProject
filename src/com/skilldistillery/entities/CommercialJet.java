@@ -14,6 +14,10 @@ public class CommercialJet extends Jet implements PeopleCarrier{
 		this.paxCap = paxCap;
 	}
 
+	public CommercialJet(String model, double speed, double range, double price, String pilotName) {
+		super(model, speed, range, price, pilotName);
+	}
+	
 	public int getPaxCap() {
 		return this.paxCap;
 	}

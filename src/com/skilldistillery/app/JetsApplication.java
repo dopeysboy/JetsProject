@@ -1,5 +1,6 @@
 package com.skilldistillery.app;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 import com.skilldistillery.entities.AirField;
@@ -16,7 +17,7 @@ public class JetsApplication {
 	private final String fileLocation = "Jets.txt";
 	private RandomJetCreator rjc = new RandomJetCreator();
 	private AirField jets = new AirField(MyFileReaderWriter.readJetFromFile(fileLocation));
-	boolean keepRunning = true;
+	private boolean keepRunning = true;
 	
 	public static void main(String[] args) {
 		JetsApplication ja = new JetsApplication();
@@ -41,7 +42,10 @@ public class JetsApplication {
 		sb.append("6. War in the skies!\n");
 		sb.append("7. Add a jet to Fleet\n");
 		sb.append("8. Remove a jet from Fleet\n");
-		sb.append("9. Quit");
+		sb.append("9. Load a random list of jets\n");
+		sb.append("10. Save your jets\n");
+		sb.append("11. Load your jets from an existing save\n");
+		sb.append("12. Quit");
 		
 		System.out.println(sb.toString());
 	}
@@ -133,7 +137,7 @@ public class JetsApplication {
 					break;
 				case "NO":
 				case "N":
-					String[] jetRaw = new String[5];
+					String[] jetRaw = new String[6];
 					
 					System.out.print("Please enter the type of jet (your options are BomberPlane, CargoPlane, CommercialJet, FighterJet, and JetImpl): ");
 					jetRaw[0] = kb.nextLine();
@@ -149,6 +153,9 @@ public class JetsApplication {
 					
 					System.out.print("Please enter the price of your jet: ");
 					jetRaw[4] = kb.nextLine();
+					
+					System.out.print("Please enter your pilot's name, or random for a random name: ");
+					jetRaw[5] = kb.nextLine();
 					
 					newJet = jets.createJet(jetRaw);
 					usrInputLoop = false;
@@ -178,6 +185,36 @@ public class JetsApplication {
 		String usrInput = kb.nextLine();
 		
 		jets.removeJet(usrInput);
+	}
+	
+	public void loadRandom() {
+		try {
+			System.out.println("How many random jets would you like to load?");
+			String usrInput = kb.nextLine();
+			
+			List<Jet> randJets = new ArrayList<>(); 
+			int numJets = Integer.parseInt(usrInput);
+			
+			System.out.println(numJets);
+			for(int i = 0; i < numJets; i++) {
+				System.out.println("Creating jet " + i);
+				randJets.add(rjc.createJet());
+			}
+			
+			AirField randomAirfield = new AirField(randJets);
+			jets = randomAirfield;
+			
+		} catch (NumberFormatException e) {
+			System.out.println("Please enter a whole number!");
+		}
+	}
+	
+	public void save() {
+		
+	}
+	
+	public void load() {
+		
 	}
 	
 	public void getUserInput() {
@@ -211,15 +248,24 @@ public class JetsApplication {
 					removeJet();
 					break;
 				case 9:
+					loadRandom();
+					break;
+				case 10:
+					save();
+					break;
+				case 11:
+					load();
+					break;
+				case 12:
 					System.out.println("Goodbye!");
 					keepRunning = false;
 					break;
 				default:
-					System.err.println("Please enter a valid number 1-9");
+					System.err.println("Please enter a valid number 1-12");
 					break;
 			}
 		} catch (Exception e) {
-			System.err.println("Please enter a valid number 1-9");
+			System.err.println("Please enter a valid number 1-12");
 		}
 	}
 }

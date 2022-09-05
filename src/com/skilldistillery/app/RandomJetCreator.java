@@ -11,7 +11,7 @@ import com.skilldistillery.entities.JetImpl;
 import com.skilldistillery.entities.MyFileReaderWriter;
 
 public class RandomJetCreator {
-	private final String[] jetTypes = {"BomberPlane", "CargoPlane", "CommercialJet", "JetImpl"};
+	private final String[] jetTypes = {"BomberPlane", "CargoPlane", "CommercialJet", "FighterJet", "JetImpl"};
 	private final ArrayList<String> modelNames = MyFileReaderWriter.readNamesFromFile("ModelNames.txt"); 
 	
 	public Jet createJet() {

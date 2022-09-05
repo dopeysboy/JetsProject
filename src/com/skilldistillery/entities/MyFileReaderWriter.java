@@ -80,18 +80,19 @@ public class MyFileReaderWriter {
 		double speed = Double.parseDouble(rawJet[2]);
 		double range = Double.parseDouble(rawJet[3]);
 		double price = Double.parseDouble(rawJet[4]);
+		String pilotName = rawJet[5];
 	
 		switch(rawJet[0].toUpperCase()) {
 		case "BOMBERPLANE":
-				return new BomberPlane(model, speed, range, price);
+				return new BomberPlane(model, speed, range, price, pilotName);
 			case "CARGOPLANE":
-				return new CargoPlane(model, speed, range, price);
+				return new CargoPlane(model, speed, range, price, pilotName);
 			case "COMMERCIALJET":
-				return new CommercialJet(model, speed, range, price);
+				return new CommercialJet(model, speed, range, price, pilotName);
 			case "FIGHTERJET":
-				return new FighterJet(model, speed, range, price);
+				return new FighterJet(model, speed, range, price, pilotName);
 			case "JETIMPL":
-				return new JetImpl(model, speed, range, price);
+				return new JetImpl(model, speed, range, price, pilotName);
 			default:
 				throw new Exception("You did not provide a valid jet type");
 		}
