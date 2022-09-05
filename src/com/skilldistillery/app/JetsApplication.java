@@ -124,7 +124,42 @@ public class JetsApplication {
 	}
 	
 	public void removeJet() {
+		List<Jet> jetsList = jets.getJets(); 
 		
+		StringBuilder sb = new StringBuilder();
+		sb.append("Please enter which jet to delete: ");
+		
+		int x = 0;
+		
+		for(int i = 0; i < jets.getNumberOfJets(); i++) {
+			sb.append("\n  (").append(i).append(") ");
+			sb.append(jetsList.get(i).getModel());
+			x++;
+		}
+		
+		sb.append("\n  Input anything else to Cancel");
+		
+		System.out.println(sb.toString());
+		String usrInput = kb.nextLine();
+		
+		//if the input was a number this block executes
+		try {
+			int usrInputNum = Integer.parseInt(usrInput);
+			
+			if(usrInputNum < 0 || usrInputNum > x) {
+				System.out.println("");
+			} else {
+				jets.removeJet(jetsList.get(x));
+			}
+			
+		//if the input was not a number
+		} catch (Exception e) {
+			Jet removeJet = jets.getJetByModelName(usrInput);
+			
+			if(removeJet != null) {
+				jets.removeJet(removeJet);
+			}
+		}
 	}
 	
 	public void getUserInput() {

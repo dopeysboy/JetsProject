@@ -15,11 +15,25 @@ public class AirField {
 		return jets;
 	}
 	
+	public int getNumberOfJets() {
+		return jets.size();
+	}
+	
 	public void addJet(Jet jet) {
 		jets.add(jet);
 	}
 	
 	public void removeJet(Jet jet) {
 		jets.remove(jet);
+	}
+	
+	public Jet getJetByModelName(String model) {
+		for(Jet j : jets) {
+			if(model.toUpperCase().equals(j.getModel())) {
+				return j;
+			}
+		}
+		
+		return null;
 	}
 }
