@@ -3,17 +3,16 @@ package com.skilldistillery.entities;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
-import java.util.List;
 
 public class MyFileReader {
 	
-	public void readJetFromFile(List<Jet> outputList, String file) {
+	public void readJetFromFile(AirField outputList, String file) {
 		try(BufferedReader bufIn = new BufferedReader(new FileReader(file))){
 			String line;
 			while((line = bufIn.readLine()) != null) {
 				String[] jetStrings = line.split(",");
 				
-				outputList.add(makeJetGivenStringArray(jetStrings));
+				outputList.addJet(makeJetGivenStringArray(jetStrings));
 			}
 		} catch(IOException e) {
 			e.printStackTrace();

@@ -4,8 +4,8 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
 
+import com.skilldistillery.entities.AirField;
 import com.skilldistillery.entities.BoomPlane;
-import com.skilldistillery.entities.CargoPlane;
 import com.skilldistillery.entities.Jet;
 import com.skilldistillery.entities.MyFileReader;
 import com.skilldistillery.entities.PeopleCarrier;
@@ -16,8 +16,9 @@ public class JetsApplication {
 
 	private Scanner kb = new Scanner(System.in);
 	private final String fileLocation = "Jets.txt";
-	public List<Jet> jets = new LinkedList<>();
+	private AirField jets = new AirField(new LinkedList<Jet>());
 	boolean keepRunning = true;
+	private MyFileReader mfr = new MyFileReader();
 	
 	public static void main(String[] args) {
 		JetsApplication ja = new JetsApplication();
@@ -25,7 +26,6 @@ public class JetsApplication {
 	}
 
 	public void run() {
-		MyFileReader mfr = new MyFileReader();
 		mfr.readJetFromFile(jets, fileLocation);
 		
 		while(keepRunning) {
@@ -51,22 +51,24 @@ public class JetsApplication {
 	}
 	
 	public void listFleet() {
-		for(Jet j : jets) {
+		for(Jet j : jets.getJets()) {
 			System.out.println(j);
 		}
 	}
 	
 	public void flyAll() {
-		for(Jet j: jets) {
+		for(Jet j: jets.getJets()) {
 			j.fly();
 		}
 	}
 	
 	public void viewFastest() {
-		double fastest = jets.get(0).getSpeed();
-		Jet fastestJet = jets.get(0);
+		List<Jet> jetsList = jets.getJets(); 
 		
-		for(Jet j : jets) {
+		double fastest = jetsList.get(0).getSpeed();
+		Jet fastestJet = jetsList.get(0);
+		
+		for(Jet j : jetsList) {
 			if(j.getSpeed() > fastest) {
 				fastest = j.getSpeed();
 				fastestJet = j;
@@ -77,11 +79,23 @@ public class JetsApplication {
 	}
 	
 	public void viewFarthest() {
+		List<Jet> jetsList = jets.getJets();
 		
+		double farthest = jetsList.get(0).getRange();
+		Jet farthestJet = jetsList.get(0);
+		
+		for(Jet j : jetsList) {
+			if(j.getRange() > farthest) {
+				farthest = j.getRange();
+				farthestJet = j;
+			}
+		}
+		
+		System.out.println(farthestJet);
 	}
 	
 	public void loadCargo() {
-		for(Jet j: jets) {
+		for(Jet j: jets.getJets()) {
 			if(j instanceof ThingCarrier) {
 				((ThingCarrier) j).loadMeUp();
 				((ThingCarrier) j).getItOut();
@@ -94,7 +108,7 @@ public class JetsApplication {
 	}
 	
 	public void war() {
-		for(Jet j: jets) {
+		for(Jet j: jets.getJets()) {
 			if(j instanceof PewPewPlane) {
 				((PewPewPlane) j).fight();
 				((PewPewPlane) j).reload();
