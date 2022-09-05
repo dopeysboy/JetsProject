@@ -23,8 +23,27 @@ public class AirField {
 		jets.add(jet);
 	}
 	
-	public void removeJet(Jet jet) {
-		jets.remove(jet);
+	public void removeJet(String usrInput) {
+		//if the input was a number this block executes
+		try {
+			int usrInputNum = Integer.parseInt(usrInput);
+			
+			if(usrInputNum < 0 || usrInputNum > jets.size()) {
+				System.out.println("Quitting");
+			} else {
+				jets.remove(usrInputNum);
+			}
+			
+		//if the input was not a number
+		} catch (Exception e) {
+			Jet removeJet = getJetByModelName(usrInput);
+			
+			if(removeJet != null) {
+				jets.remove(removeJet);
+			} else {
+				System.out.println("Quitting");
+			}
+		}
 	}
 	
 	public Jet getJetByModelName(String model) {

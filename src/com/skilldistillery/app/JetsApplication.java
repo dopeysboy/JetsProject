@@ -142,24 +142,7 @@ public class JetsApplication {
 		System.out.println(sb.toString());
 		String usrInput = kb.nextLine();
 		
-		//if the input was a number this block executes
-		try {
-			int usrInputNum = Integer.parseInt(usrInput);
-			
-			if(usrInputNum < 0 || usrInputNum > x) {
-				System.out.println("");
-			} else {
-				jets.removeJet(jetsList.get(x));
-			}
-			
-		//if the input was not a number
-		} catch (Exception e) {
-			Jet removeJet = jets.getJetByModelName(usrInput);
-			
-			if(removeJet != null) {
-				jets.removeJet(removeJet);
-			}
-		}
+		jets.removeJet(usrInput);
 	}
 	
 	public void getUserInput() {
