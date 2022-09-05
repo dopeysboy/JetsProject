@@ -1,13 +1,11 @@
 package com.skilldistillery.app;
 
-import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
-
 import com.skilldistillery.entities.AirField;
 import com.skilldistillery.entities.BoomPlane;
 import com.skilldistillery.entities.Jet;
-import com.skilldistillery.entities.MyFileReader;
+import com.skilldistillery.entities.MyFileReaderWriter;
 import com.skilldistillery.entities.PeopleCarrier;
 import com.skilldistillery.entities.PewPewPlane;
 import com.skilldistillery.entities.ThingCarrier;
@@ -16,9 +14,9 @@ public class JetsApplication {
 
 	private Scanner kb = new Scanner(System.in);
 	private final String fileLocation = "Jets.txt";
-	private AirField jets = new AirField(new LinkedList<Jet>());
+	private RandomJetCreator rjc = new RandomJetCreator();
+	private AirField jets = new AirField(MyFileReaderWriter.readJetFromFile(fileLocation));
 	boolean keepRunning = true;
-	private MyFileReader mfr = new MyFileReader();
 	
 	public static void main(String[] args) {
 		JetsApplication ja = new JetsApplication();
@@ -26,8 +24,6 @@ public class JetsApplication {
 	}
 
 	public void run() {
-		mfr.readJetFromFile(jets, fileLocation);
-		
 		while(keepRunning) {
 			displayUserMenu();
 			getUserInput();
@@ -120,24 +116,49 @@ public class JetsApplication {
 	}
 	
 	public void addJet() {
-		String[] jetRaw = new String[5];
+		Jet newJet = null;
+		boolean usrInputLoop = true;
 		
-		System.out.print("Please enter the type of jet (your options are BomberPlane, CargoPlane, CommercialJet, FighterJet, and JetImpl): ");
-		jetRaw[0] = kb.nextLine();
+		System.out.println("Whould you like to create a random jet?");
 		
-		System.out.print("Please enter the model of your jet: ");
-		jetRaw[1] = kb.nextLine();
-		
-		System.out.print("Please enter the speed of your jet: ");
-		jetRaw[2] = kb.nextLine();
-		
-		System.out.print("Please enter the range of your jet: ");
-		jetRaw[3] = kb.nextLine();
-		
-		System.out.print("Please enter the price of your jet: ");
-		jetRaw[4] = kb.nextLine();
-		
-		jets.addJet(jets.createJet(jetRaw));
+		while(usrInputLoop) {
+			String usrInput = kb.nextLine();
+				
+			switch (usrInput.toUpperCase()) {
+				case "YES":
+				case "Y":
+					System.out.println("Creating a random jet");
+					newJet = rjc.createJet();
+					usrInputLoop = false;
+					break;
+				case "NO":
+				case "N":
+					String[] jetRaw = new String[5];
+					
+					System.out.print("Please enter the type of jet (your options are BomberPlane, CargoPlane, CommercialJet, FighterJet, and JetImpl): ");
+					jetRaw[0] = kb.nextLine();
+					
+					System.out.print("Please enter the model of your jet: ");
+					jetRaw[1] = kb.nextLine();
+					
+					System.out.print("Please enter the speed of your jet: ");
+					jetRaw[2] = kb.nextLine();
+					
+					System.out.print("Please enter the range of your jet: ");
+					jetRaw[3] = kb.nextLine();
+					
+					System.out.print("Please enter the price of your jet: ");
+					jetRaw[4] = kb.nextLine();
+					
+					newJet = jets.createJet(jetRaw);
+					usrInputLoop = false;
+					break;
+				default:
+					System.err.println("Please input either y, yes, n, or no");
+					break;
+			}
+		}
+		jets.addJet(newJet);
 	}
 	
 	public void removeJet() {

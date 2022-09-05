@@ -31,23 +31,6 @@ public class CommercialJet extends Jet implements PeopleCarrier{
 	}
 
 	@Override
-	public String toString() {
-		StringBuilder builder = new StringBuilder();
-		builder.append("CommercialJet [paxCap=");
-		builder.append(paxCap);
-		builder.append(", model=");
-		builder.append(model);
-		builder.append(", speed=");
-		builder.append(speed);
-		builder.append(", range=");
-		builder.append(range);
-		builder.append(", price=");
-		builder.append(price);
-		builder.append("]");
-		return builder.toString();
-	}
-
-	@Override
 	public int hashCode() {
 		final int prime = 31;
 		int result = super.hashCode();

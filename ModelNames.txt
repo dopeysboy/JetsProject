@@ -1,0 +1,2620 @@
+|-
+|[[ACAZ C.2]]||Belgium||Two-seat fighter||1926||Prototype||{{nts|1}}||
+|-
+|[[Adamoli-Cattani fighter]]||Italy||||1918||Prototype||{{nts|1}}||
+|-
+|[[AD Scout]]||UK||Zeppelin interceptor||1915||Prototype||{{nts|4}}||
+|-
+|[[AEG D.I, D.II & D.III]]||Germany||||1917||Prototype||{{nts|3}}||
+|-
+|[[AEG Dr.I]]||Germany||||1917||Prototype||{{nts|1}}||
+|-
+|[[Aerfer Ariete]]||Italy||||1958||Prototype||{{nts|2}}||
+|-
+|[[Aerfer Sagittario 2]]||Italy||Lightweight fighter||1956||Prototype||{{nts|2}}||
+|-
+|[[Aero Ae 02]]||Czechoslovakia||||1920||Prototype||{{nts|1}}||
+|-
+|[[Aero Ae 04]]||Czechoslovakia||||1921||Prototype||{{nts|1}}||
+|-
+|[[Aero A.18]]||Czechoslovakia||||1923||Production||{{nts|20}}||
+|-
+|[[Aero A.19]]||Czechoslovakia||||1923||Prototype||{{nts|1}}||
+|-
+|[[Aero A.20]]||Czechoslovakia||||1923||Prototype||{{nts|1}}||
+|-
+|[[Aero A.102]]||Czechoslovakia||||1934||Prototype||{{nts|1}}||
+|-
+|[[Aeromarine PG-1]]||US||Fighter-bomber||1922||Prototype||{{nts|1}}||<!--pursuit ground attack-->
+|-
+|[[Aeronautica Umbra Trojani AUT.18]]||Italy||||1939||Prototype||{{nts|1}}||
+|-
+|[[AIDC F-CK-1 Ching-kuo]]||Taiwan||fighter-bomber||1989||Operational||{{nts|130}}||
+|-
+|[[Airco DH.1]]||UK||Two-seat fighter||1915||Production||{{nts|170}} ca.||
+|-
+|[[Airco DH.2]]||UK||||1915||Production||{{nts|453}}||
+|-
+|[[Airco DH.5]]||UK||||1916||Production||{{nts|552}}||
+|-
+|[[Albatros D.I]]||Germany||||1916||Production||{{nts|50}}||
+|-
+|[[Albatros D.II]]||Germany||||1916||Production||{{nts|291}}||
+|-
+|[[Albatros D.III]]||Germany||||1916||Production||{{nts|1340}}||
+|-
+|[[Albatros D.IV]]||Germany||||1916||Prototype||{{nts|1}}||
+|-
+|[[Albatros D.V & D.Va]]||Germany||||1917||Production||{{nts|2500}}||
+|-
+|[[Albatros D.VI]]||Germany||||1918||Prototype||{{nts|1}}||
+|-
+|[[Albatros D.VII]]||Germany||||1917||Prototype||{{nts|1}}||
+|-
+|[[Albatros D.IX]]||Germany||||1918||Prototype||{{nts|1}}||
+|-
+|[[Albatros D.X]]||Germany||||1918||Prototype||{{nts|1}}||
+|-
+|[[Albatros D.XI]]||Germany||||1918||Prototype||{{nts|2}}||
+|-
+|[[Albatros D.XII]]||Germany||||1918||Prototype||{{nts|1}}||
+|-
+|[[Albatros Dr.I]]||Germany||||1917||Prototype||{{nts|1}}||
+|-
+|[[Albatros Dr.II]]||Germany||||1918||Prototype||{{nts|1}}||
+|-
+|[[Albatros L 65]]||Germany||Fighter-reconnaissance ||1925||Prototype||{{nts|2}}||
+|-
+|[[Albatros L 77v]]||Germany||Fighter-reconnaissance||1928||Prototype||{{nts|4}}||
+|-
+|[[Albatros L 84]]||Germany||Two-seat fighter||1931||Prototype||{{nts|5}}||
+|-
+|[[Albatros W.4]]||Germany||Floatplane fighter||1916||Production||{{nts|118}}||
+|-
+|[[Albree Pigeon-Fraser Pursuit]]||US||||1917||Prototype||{{nts|3}}||
+|-
+|[[Alcock Scout]]||UK||||1917||Prototype||{{nts|1}}||
+|-
+|[[Alekseyev I-211 & 215]]||USSR||||1947||Prototype||{{nts|3}}||
+|-
+|[[Alter A.1]]||Germany||||1917||Prototype||{{nts|1}}||
+|-
+|[[Ambrosini SAI.107 & 207]]||Italy||Lightweight fighter||1940||Production||{{nts|14}}||
+|-
+|[[Ambrosini SAI.403]]||Italy||Lightweight fighter||1943||Prototype||{{nts|1}}||
+|-
+|[[Ambrosini SS.4]]||Italy||||1939||Prototype||{{nts|1}}||
+|-
+|[[Amiot 110]]||France||Lightweight Jockey fighter||1928||Prototype||{{nts|2}}||
+|-
+|[[Anatra Anadis]]||Russia||||1916||Prototype||{{nts|1}}||
+|-
+|[[ANF Les Mureaux 114]]||France||Night fighter||1931||Prototype||{{nts|2}}||
+|-
+|[[Les Mureaux 3|ANF Les Mureaux 130/Les Mureaux 3 & 4]]||France||Fighter-reconnaissance||1927||Prototype||{{nts|2}}||
+|-
+|[[ANF Les Mureaux 170]]||France||||1932||Prototype||{{nts|2}}||
+|-
+|[[ANF Les Mureaux 180]]||France||Two-seat fighter||1935||Prototype||{{nts|1}}||
+|-
+|[[ANF Les Mureaux 190]]||France||Lightweight fighter||1936||Prototype||{{nts|1}}||
+|-
+|[[Ansaldo A.1 Balilla]]||Italy||||1917||Production||{{nts|307}}||
+|-
+|[[Ansaldo ISVA]]||Italy||Floatplane fighter||1917||Production||{{nts|50}}||
+|-
+|[[Ansaldo SVA]]||Italy||Fighter-reconnaissance||1917||Production||{{nts|1245}}||
+|-
+|[[Arado SD I]]||Germany||||1927||Prototype||{{nts|2}}||
+|-
+|[[Arado SD II]]||Germany||||1929||Prototype||{{nts|1}}||
+|-
+|[[Arado SD III]]||Germany||||1929||Prototype||{{nts|1}}||
+|-
+|[[Arado SSD I]]||Germany||Floatplane fighter||1930||Prototype||{{nts|1}}||
+|-
+|[[Arado Ar 64]]||Germany||||1930||Production||{{nts|20}}||
+|-
+|[[Arado Ar 65]]||Germany||||1931||Production||{{nts|85}}||
+|-
+|[[Arado Ar 67]]||Germany||||1933||Prototype||{{nts|1}}||
+|-
+|[[Arado Ar 68]]||Germany||||1934||Production||{{nts|511}}||
+|-
+|[[Arado Ar 76]]||Germany||Lightweight fighter||1934||Production||{{nts|189}}||
+|-
+|[[Arado Ar 80]]||Germany||||1935||Prototype||{{nts|3}}||
+|-
+|[[Arado Ar 197]]||Germany||Carrier fighter||1937||Prototype||{{nts|3}}||
+|-
+|[[Arado Ar 240]]||Germany||Heavy fighter||1940||Prototype||{{nts|14}}||
+|-
+|[[Arado Ar 440]]||Germany||Heavy fighter||1942||Prototype||{{nts|5}}||
+|-
+|[[Armstrong Whitworth Ara]]||UK||||1919||Prototype||{{nts|2}}||
+|-
+|[[Armstrong Whitworth Armadillo]]||UK||||1918||Prototype||{{nts|1}}||
+|-
+|[[Armstrong Whitworth A.W.16]]||UK||||1930||Production||{{nts|18}}||
+|-
+|[[Armstrong Whitworth F.K.6]]||UK||Escort fighter||1916||Prototype||{{nts|1}}||
+|-
+|[[Armstrong Whitworth F.K.10|Armstrong Whitworth F.K.9 & 10]]||UK||||1916||Prototype||{{nts|9}}||
+|-
+|[[Armstrong Whitworth Siskin]]||UK||||1919||Production||{{nts|272}}||
+|-
+|[[Armstrong Whitworth Starling]]||UK||||1927||Prototype||{{nts|2}}||
+|-
+|[[Armstrong Whitworth AW.35 Scimitar]]||UK||||1935||Production||{{nts|6}}||
+|-
+|[[Army Arsenal Model 3]]||Japan||||1927||Prototype||{{nts|1}}||<ref name="Japanese Aircraft">Mikesh, 1990</ref>
+|-
+|[[Arsenal-Delanne 10]]||France||||1941||Prototype||{{nts|1}}||
+|-
+|[[Arsenal VG-33|Arsenal VG-30 - 39]]||France||Lightweight fighter||1938||Production||{{nts|40}}+||
+|-
+|[[Arsenal VB 10]]||France||Interceptor||1945||Prototype||{{nts|6}}||
+|-
+|[[Arsenal VG 90]]||France||Carrier fighter||1949||Prototype||{{nts|2}}||
+|-
+|[[Atlas Cheetah]]||South Africa||Fighter-bomber||1986||Operational||{{nts|70}}||
+|-
+|[[Austin-Ball A.F.B.1]]||UK||||1917||Prototype||{{nts|1}}||
+|-
+|[[Austin Osprey]]||UK||||1918||Prototype||{{nts|1}}||
+|-
+|[[Austin Greyhound]]||UK||Two-seat fighter||1919||Prototype||{{nts|3}}||
+|-
+|[[Avia BH-3]]||Czechoslovakia||||1921||Production||{{nts|14}}||
+|-
+|[[Avia BH-4]]||Czechoslovakia||||1922||Prototype||{{nts|1}}||
+|-
+|[[Avia BH-6]]||Czechoslovakia||||1923||Prototype||{{nts|1}}||
+|-
+|[[Avia BH-7]]||Czechoslovakia||||1923||Prototype||{{nts|2}}||
+|-
+|[[Avia BH-8]]||Czechoslovakia||||1923||Prototype||{{nts|1}}||
+|-
+|[[Avia BH-17]]||Czechoslovakia||||1924||Production||{{nts|24}}||
+|-
+|[[Avia BH-19]]||Czechoslovakia||||1924||Prototype||{{nts|2}}||
+|-
+|[[Avia BH-21]]||Czechoslovakia||||1925||Production||{{nts|184}}||
+|-
+|[[Avia BH-23]]||Czechoslovakia||Night fighter||1926||Prototype||{{nts|2}}||
+|-
+|[[Avia BH-33]]||Czechoslovakia||||1927||Production||{{nts|110}}||
+|-
+|[[Avia B-34]]||Czechoslovakia||||1932||Production||{{nts|14}}||
+|-
+|[[Avia B-534]]||Czechoslovakia||||1933||Production||{{nts|566}}||
+|-
+|[[Avia B-634]]||Czechoslovakia||||1936||Prototype||{{nts|1}}||
+|-
+|[[Avia B-35]]||Czechoslovakia||||1938||Prototype||{{nts|3}}||
+|-
+|[[Avia B-135]]||Czechoslovakia||||1939||Production||{{nts|13}}||
+|-
+|[[Avia S-199]]||Czechoslovakia||||1947||Production||{{nts|603}}||
+|-
+|[[Aviatik (Berg) D.I]]||Austria-Hungary||||1917||Production||{{nts|700}} ca.||
+|-
+|[[Aviatik (Berg) D.II]]||Austria-Hungary||||1917||Production||{{nts|19}}||
+|-
+|[[Aviatik D.III]]||Germany||||1917||Prototype||{{nts|2}}||
+|-
+|[[Aviatik D.VI]]||Germany||||1918||Prototype||{{nts|1}}||
+|-
+|[[Aviatik D.VII]]||Germany||||1918||Prototype||{{nts|1}}||
+|-
+|[[Aviméta 88]]||France||Night fighter||1927||Prototype||{{nts|1}}||
+|-
+|[[Aviotehas PN-3]]||Estonia||Fighter-reconnaissance||1939||Prototype||{{nts|1}}||
+|-
+|[[AVIS I]]||Hungary||||1933||Prototype||{{nts|1}}||
+|-
+|[[AVIS II]]||Hungary||||1935||Prototype||{{nts|1}}||
+|-
+|[[AVIS III]]||Hungary||||1935||Prototype||{{nts|3}}||
+|-
+|[[AVIS IV]]||Hungary||||1937||Prototype||{{nts|1}}||
+|-
+|[[Avro 504]]||UK||Zeppelin interceptor||1913||Production||{{nts|11,303}}||
+|-
+|[[Avro 523 Pike]]||UK||Zeppelin interceptor||1916||Prototype||{{nts|2}}||
+|-
+|[[Avro 527]]||UK||Fighter-reconnaissance||1916||Prototype||{{nts|1}}||
+|-
+|[[Avro 530]]||UK||Two-seat fighter||1917||Prototype||{{nts|2}}||
+|-
+|[[Avro 531 Spider]]||UK||||1918||Prototype||{{nts|2}}||
+|-
+|[[Avro 566 Avenger]]||UK||||1926||Prototype||{{nts|1}}||
+|-
+|[[Avro 584 Avocet]]||UK||Fleet fighter||1927||Prototype||{{nts|2}}||
+|-
+|[[Avro Canada CF-100 Canuck]]||Canada||All-weather interceptor||1950||Production||{{nts|692}}||
+|-
+|[[Avro Canada CF-105 Arrow]]||Canada||All-weather interceptor||1958||Prototype||{{nts|5}}||
+|-
+|[[Bachem Ba 349]]||Germany||VTO rocket interceptor||1945||Prototype||{{nts|36}}||
+|-
+|[[BAJ IV]]||France||Two-seat fighter||1919||Prototype||{{nts|2}}||
+|-
+|[[BAT Bantam]]||UK||||1918||Prototype||{{nts|15}}||
+|-
+|[[BAT Basilisk]]||UK||||1918||Prototype||{{nts|3}}||
+|-
+|[[Baykar Bayraktar Kızılelma]]||Turkey||Unmanned fighter||2023||Prototype||{{nts|1}}||
+|-
+|[[Beardmore W.B.2]]||UK||||1917||Prototype||{{nts|3}}||
+|-
+|[[Beardmore W.B.III]]||UK||Shipboard fighter||1917||Production||{{nts|100}}||
+|-
+|[[Beardmore W.B.IV]]||UK||Shipboard fighter|||1917||Prototype||{{nts|1}}||
+|-
+|[[Beardmore W.B.V]]||UK||Shipboard fighter||1917||Prototype||{{nts|2}}||
+|-
+|[[Beardmore W.B.XXVI]]||UK||Two-seat fighter||1925||Prototype||{{nts|1}}||
+|-
+|[[Bell YFM-1 Airacuda]]||US||Interceptor||1937||Production||{{nts|13}}||
+|-
+|[[Bell XFL Airabonita]]||US||Carrier fighter||1940||Prototype||{{nts|1}}||
+|-
+|[[Bell P-39 Airacobra]]||US||||1938||Production||{{nts|9584}}||
+|-
+|[[Bell P-59 Airacomet]]||US||||1942||Production||{{nts|66}}||
+|-
+|[[Bell P-63 Kingcobra]]||US||||1942||Production||{{nts|3303}}||
+|-
+|[[Bell XP-77]]||US||Lightweight fighter||1944||Prototype||{{nts|2}}||
+|-
+|[[Bell XP-83]]||US||Escort fighter||1945||Prototype||{{nts|2}}||
+|-
+|[[Berkmans Speed Scout]]||US||||1917||Prototype||{{nts|1}}||
+|-
+|[[Bereznyak-Isayev BI-1]]||USSR||Interceptor rocket||1942||Prototype||{{nts|9}}||
+|-
+|[[Berliner-Joyce XFJ]]||US||Carrier fighter||1930||Prototype||{{nts|1}}||
+|-
+|[[Berliner-Joyce F2J]]||US||Carrier fighter||1933||Production||{{nts|39}}||
+|-
+|[[Berliner-Joyce XF3J]]||US||Carrier fighter||1934||Prototype||{{nts|1}}||
+|-
+|[[Berliner-Joyce P-16]]||US||||1930||Production||{{nts|26}}||
+|-
+|[[Bernard SIMB AB 10]]||France||||1924||Prototype||{{nts|1}}||
+|-
+|[[Bernard SIMB AB 12]]||France||||1926||Prototype||{{nts|1}}||
+|-
+|[[Bernard SIMB AB 14]]||France||||1925||Prototype||{{nts|1}}||
+|-
+|[[Bernard 15]]||France||||1926||Prototype||{{nts|1}}||
+|-
+|[[Bernard 20]]||France||||1929||Prototype||{{nts|1}}||
+|-
+|[[Bernard H.52]]||France||Floatplane fighter||1933||Prototype||{{nts|2}}||
+|-
+|[[Bernard 74 & 75]]||France||||1931||Prototype||{{nts|2}}||<!--plus 1 racer designated 72 & 73-->
+|-
+|[[Bernard H 110]]||France||Floatplane fighter||1935||Prototype||{{nts|1}}||
+|-
+|[[Bernard 260]]||France||||1932||Prototype||{{nts|2}}||
+|-
+|[[Bisnovat SK-2]]||USSR||||1940||Prototype||{{nts|1}}||
+|-
+|[[Blackburn F.3]]||UK||||1934||Prototype||{{nts|1}}||<ref group=note>Abandoned after problems during taxiing</ref>
+|-
+|[[Blackburn Firebrand]]||UK||Torpedo fighter||1942||Production||{{nts|193}}||
+|-
+|[[Blackburn Firecrest]]||UK||Strike fighter||1947||Prototype||{{nts|3}}||
+|-
+|[[Blackburn Lincock]]||UK||Lightweight fighter||1928||Production||{{nts|7}}||
+|-
+|[[Blackburn Roc]]||UK||Turret fighter||1938||Production||{{nts|136}}||
+|-
+|[[Blackburn Skua]]||UK||Fighter/dive bomber||1937||Production||{{nts|192}}||
+|-
+|[[Blackburn Triplane]]||UK||Zeppelin interceptor||1917||Prototype||{{nts|1}}||
+|-
+|[[Blackburn Turcock]]||UK||Interceptor/fleet fighter||1927||Prototype||{{nts|1}}||
+|-
+|[[Blériot 118]]||France||Flying-boat fighter||1925||Prototype||{{nts|1}}||
+|-
+|[[Blériot-SPAD S.41]]||France||||1922||Prototype||{{nts|1}}||
+|-
+|[[Blériot-SPAD S.51]]||France||||1924||Production||{{nts|54}}+||
+|-
+|[[Blériot-SPAD S.60]]||France||Two-seat fighter||1926||Prototype||{{nts|3}}||
+|-
+|[[Blériot-SPAD S.61]]||France||||1923||Production||{{nts|380}}+||
+|-
+|[[Blériot-SPAD S.70]]||France||||1927||Prototype||{{nts|1}}||
+|-
+|[[Blériot-SPAD S.71]]||France||||1923||Prototype||{{nts|1}}||
+|-
+|[[Blériot-SPAD S.72]]||France||||1923||Prototype||{{nts|1}}||
+|-
+|[[Blériot-SPAD S.81]]||France||||1923||Production||{{nts|87}}+||
+|-
+|[[Blériot-SPAD S.91]]||France||Lightweight Jockey fighter||1927||Prototype||{{nts|4}}||
+|-
+|[[Blériot-SPAD S.510]]||France||||1933||Production||{{nts|61}}||
+|-
+|[[Blériot-SPAD S.710]]||France||||1937||Prototype||{{nts|1}}||
+|-
+|[[Bloch MB.150-157]]||France||||1937||Production||{{nts|663}}||
+|-
+|[[Blohm & Voss BV 40]]||Germany||Interceptor glider||1944||Prototype||{{nts|7}}||
+|-
+|[[Blohm & Voss BV 155]]||Germany||High-altitude interceptor||1944||Prototype||{{nts|3}}||
+|-
+|[[Boeing FB]]||US||Carrier fighter||1923||Production||{{nts|44}}||
+|-
+|[[Boeing F2B]]||US||Carrier fighter||1926||Production||{{nts|33}}||
+|-
+|[[Boeing F3B]]||US||Carrier fighter||1928||Production||{{nts|74}}||
+|-
+|[[Boeing F4B]]||US||Carrier fighter||1928||Production||{{nts|187}}||
+|-
+|[[Boeing XF5B]]||US||Carrier fighter||1930||Prototype||{{nts|1}}||
+|-
+|[[Boeing XF6B]]||US||Fighter-bomber||1933||Prototype||{{nts|1}}||
+|-
+|[[Boeing XF7B]]||US||Carrier fighter||1933||Prototype||{{nts|1}}||
+|-
+|[[Boeing XF8B]]||US||Carrier fighter||1944||Prototype||{{nts|3}}||
+|-
+|[[Boeing PW-9]]||US||||1923||Production||{{nts|114}}||
+|-
+|[[Boeing XP-4]]||US||||1927||Prototype||{{nts|1}}||
+|-
+|[[Boeing XP-7]]||US||||1928||Prototype||{{nts|1}}||
+|-
+|[[Boeing XP-8]]||US||||1928||Prototype||{{nts|1}}||
+|-
+|[[Boeing XP-9]]||US||||1930||Prototype||{{nts|1}}||
+|-
+|[[Boeing P-12]]||US||||1929||Production||{{nts|366}}||
+|-
+|[[Boeing XP-15]]||US||||1930||Prototype||{{nts|1}}||
+|-
+|[[Boeing P-26 Peashooter]]||US||||1932||Production||{{nts|151}}||
+|-
+|[[Boeing P-29]]||US||||1934||Prototype||{{nts|3}}||
+|-
+|[[Boeing Model 100]]||US||||1929||Production||{{nts|9}}||
+|-
+|[[Boeing Model 218]]||US||||1929||Production||{{nts|1}}||
+|-
+|[[Boeing Model 256]]||US||||1932||Production||{{nts|14}}||
+|-
+|[[Boeing Model 267]]||US||||1933||Production||{{nts|9}}||
+|-
+|[[Boeing F/A-18E/F Super Hornet]]||US||Carrier fighter-bomber||1995||Operational||{{nts|608}}||
+|-
+|[[Boeing X-32]]||US||||2000||Prototype||{{nts|2}}||
+|-
+|[[Bolkhovitinov I-1]]||USSR||Fighter-bomber||1940||Prototype||{{nts|1}}||
+|-
+|[[Borel-Boccacio Type 3000]]||France||Two-seat fighter||1919||Prototype||{{nts|1}}||<!--http://www.aviastar.org/air/france/borel_c-2.php-->
+|-
+|[[Borel C.A.P. 2]]||France||High-altitude fighter||1920||Prototype||{{nts|1}}||
+|-
+|[[Borovkov-Florov I-207]]||USSR||||1937||Prototype||{{nts|8}}||
+|-
+|[[Boulton & Paul Bobolink]]||UK||||1918||Prototype||{{nts|1}}||
+|-
+|[[Boulton Paul Defiant]]||UK||Turret fighter||1937||Production||{{nts|1064}}||
+|-
+|[[Boulton & Paul Partridge]]||UK||||1928||Prototype||{{nts|1}}||
+|-
+|[[Breda Ba.27]]||Italy||||1933||Production||{{nts|14}}||
+|-
+|[[Breguet BUC/BLC]]||France||Escort fighter ||1915||Prototype||{{nts|32}} ca.||
+|-
+|[[Breguet LE]] ''Laboratoire Eiffel''||France||||1918||Prototype||{{nts|1}}||
+|-
+|[[Breguet Taon]]||France||Strike fighter||1957||Prototype||{{nts|2}}||
+|-
+|[[Breguet 17]]||France||Night fighter||1918||Production||{{nts|100}}||
+|-
+|[[Brewster F2A Buffalo]]||US||Carrier fighter||1937||Production||{{nts|509}}||
+|-
+|[[Bristol Badger]]||UK||Fighter-reconnaissance||1919||Prototype||{{nts|5}}||
+|-
+|[[Bristol Bagshot]]||UK||Heavy fighter||1927||Prototype||{{nts|1}}||
+|-
+|[[Bristol Beaufighter]]||UK||Strike fighter||1939||Production||{{nts|5928}}||
+|-
+|[[Bristol Blenheim]]||UK||Night fighter||1935||Production||{{nts|4422}}||<ref group=note name=non-fighter />
+|-
+|[[Bristol Bulldog]]||UK||||1928||Production||{{nts|443}}||
+|-
+|[[Bristol Bullfinch]]||UK||||1922||Prototype||{{nts|3}}||
+|-
+|[[Bristol Bullpup]]||UK||||1928||Prototype||{{nts|1}}||
+|-
+|[[Bristol F.2 Fighter]]||UK||Two-seat fighter||1916||Production||{{nts|5329}}||
+|-
+|[[Bristol Jupiter Fighter]]||UK||||1923||Prototype||{{nts|3}}||<!--23 more built as trainers-->
+|-
+|[[Bristol M.1 Bullet]]||UK||||1916||Production||{{nts|130}}||
+|-
+|[[Bristol Scout]]||UK||||1914||Production||{{nts|374}}||
+|-
+|[[Bristol Scout F]] ||UK||||1918||Prototype||{{nts|3}}||<!--new design unrelated to previous Scout-->
+|-
+|[[Bristol T.T.A.]]||UK||Zeppelin interceptor||1916||Prototype||{{nts|2}}||
+|-
+|[[Bristol Type 101]]||UK||Two-seat fighter||1927||Prototype||{{nts|1}}||
+|-
+|[[Bristol Type 123]]||UK||||1934||Prototype||{{nts|1}}||
+|-
+|[[Bristol Type 133]]||UK||||1934||Prototype||{{nts|1}}||
+|-
+|[[Bristol Type 146]]||UK||||1938||Prototype||{{nts|1}}||
+|-
+|[[British Aerospace Sea Harrier]] ||UK||Carrier V/STOL fighter||1978||Production||{{nts|98}}||
+|-
+|[[Burgess HT-B/HT-2]] ||US||||1917||Production||{{nts|8}}||
+|-
+|[[Buscaylet-Bechereau BB.2]]||France||||1924||Prototype||{{nts|1}}||
+|-
+|[[Buscaylet-de Monge 5/2]]||France||||1923||Prototype||{{nts|1}}||<!--Flight Magazine Jan 4 1923 pp.5-6 & http://www.aviastar.org/air/france/buscaylet_5-2.php-->
+|-
+|[[CAC Boomerang]]||Australia||||1942||Production||{{nts|250}}||
+|-
+|[[CAC CA-15 Kangaroo]]||Australia||||1946||Prototype||{{nts|1}}||
+|-
+|[[CAC Wirraway]] ||Australia||Emergency fighter/trainer||1935<!--date for North American NA-16, Wirraway was an NA-16-2K (a 2-seat fighter) built under licence-->||Production||{{nts|755}}||
+|-
+|[[Canadian Car and Foundry FDB-1]]||Canada||||1938||Prototype||{{nts|1}}||
+|-
+|[[Caproni Ca.20]]||Italy||||1914||Prototype||{{nts|1}}||
+|-
+|[[Caproni Ca.70 & 71]] ||Italy||Night fighter||1925||Prototype||{{nts|2}}||
+|-
+|[[Caproni Ca.114]]||Italy||||1933||Production||{{nts|36}}||
+|-
+|[[Caproni Ca.165]]||Italy||||1938||Prototype||{{nts|1}}||
+|-
+|[[Caproni Ca.301]]||Italy||||1934||Prototype||{{nts|2}}||
+|-
+|[[Caproni Ca.331]]||Italy||Night fighter||1942||Prototype||{{nts|2}}||
+|-
+|[[Caproni Ca.335]]||Italy||Fighter-bomber||1939||Prototype||{{nts|1}}||
+|-
+|[[Caproni CH.1]]||Italy||||1935||Prototype||{{nts|1}}||
+|-
+|[[Caproni Vizzola F.4]]||Italy||||1940||Prototype||{{nts|1}}||
+|-
+|[[Caproni Vizzola F.5]]||Italy||||1939||Production||{{nts|14}}||
+|-
+|[[Caproni Vizzola F.6]]||Italy||||1941||Prototype||{{nts|1}}||
+|-
+|[[Caudron O]]||France||||1917||Prototype||{{nts|1}}||
+|-
+|[[Caudron C.714]]||France||Lightweight fighter||1936||Production||{{nts|90}} ca.||
+|-
+|[[Caudron R.11]]||France||Escort fighter||1916||Production||{{nts|270}} ca.||
+|-
+|[[Caudron R.12]]||France||Escort fighter||1918||Prototype||{{nts|2}}||
+|-
+|[[Caudron R.14]]||France||Escort fighter||1918||Prototype||{{nts|1}}||
+|-
+|[[Caudron-Renault CR.760]]||France||Lightweight fighter||1940||Prototype||{{nts|1}}||
+|-
+|[[Caudron-Renault CR.770]]||France||Lightweight fighter||1940||Prototype||{{nts|1}}||
+|-
+|[[Chengdu FC-1 Xiaolong/PAC JF-17 Thunder]]||China, Pakistan||Lightweight fighter-bomber||2003||Operational||{{nts|100}}+||<ref>Joint venture led by Chengdu per [http://www.globalsecurity.org/military/world/pakistan/jf-17.htm Global Security.org] {{webarchive|url=https://web.archive.org/web/20111211190209/http://www.globalsecurity.org/military/world/pakistan/jf-17.htm|date=2011-12-11 }} accessed Jan 11 2012 - note 1st flight in China, NOT Pakistan</ref><!--Chengdu is SENIOR PARTNER and is NOT to be removed!--><ref>{{cite web|url=https://thediplomat.com/2016/12/confirmed-pakistan-air-force-now-operates-70-jf-17-fighter-jets/|title=Confirmed: Pakistan Air Force Now Operates 70 JF-17 Fighter Jets|work=The Diplomat|access-date=13 December 2016|url-status=live|archive-url=https://web.archive.org/web/20161214063528/https://thediplomat.com/2016/12/confirmed-pakistan-air-force-now-operates-70-jf-17-fighter-jets/|archive-date=14 December 2016}}</ref><!--Operational units and prototypes i.e. why 70+-->
+|-
+|[[Chengdu J-7]]||China||Fighter-bomber||1966||Operational||{{nts|2400}}+||
+|-
+|[[Chengdu J-10]]||China||Lightweight fighter-bomber||1998||Operational||{{nts|400}}+||
+|-
+|[[Chengdu J-20]]||China||||2011||Operational||{{nts|50}}||<ref>{{cite web|url=http://www.scmp.com/news/china/article/2077732/chinas-j-20-stealth-fighter-flies-fighting-forces-says-state-media|title=China’s J-20 stealth fighter joins the People’s Liberation Army air force|work = South China Morning Post|date=10 March 2017}}</ref><ref>{{cite web|url=https://www.businessinsider.com/china-is-behind-on-production-of-advanced-j20-fighter-jet-2020-1|title=China is behind on production of its most advanced fighter jet|work = Business Insider|date=22 Jan 2020}}</ref>
+|-
+|[[Christmas Bullet]]||US||||1919||Prototype||{{nts|2}}||
+|-
+|[[Chu XP-0]]||China||||1943||Prototype||{{nts|1}}||
+|-
+|[[Comte AC-1]]||Switzerland||||1927||Prototype||{{nts|1}}||
+|-
+|[[Consolidated PB-2/P-30]] ||US||Two-seat fighter||1934||Production||{{nts|60}}||
+|-
+|[[Consolidated Vultee XP-81]] ||US||Escort fighter||1945||Prototype||{{nts|2}}||
+|-
+|[[Convair XF-92]]||US||Interceptor||1948||Prototype||{{nts|1}}||
+|-
+|[[Convair F-102 Delta Dagger]] ||US||Interceptor||1953||Production||{{nts|1000}}||
+|-
+|[[Convair F-106 Delta Dart]] ||US||Interceptor||1956||Production||{{nts|342}}||
+|-
+|[[Convair XFY Pogo]] ||US||VTOL fighter||1954||Prototype||{{nts|1}}||
+|-
+|[[Convair F2Y Sea Dart]] ||US||Flying-boat jet fighter||1953||Prototype||{{nts|5}}||
+|-
+|[[Courtois-Suffit Lescop CSL-1]]||France||||1918||Prototype||{{nts|1}}||
+|-
+|[[Curtiss 18]]||US||||1918||Production||{{nts|5}}||
+|-
+|[[Curtiss HA]] ||US||Floatplane fighter||1918||Prototype||{{nts|3}}<!--3 fighters & 3 mailplanes built-->||
+|-
+|[[Curtiss TS-1 and F4C-1]]||US||Carrier fighter||1922||Production||{{nts|46}}||
+|-
+|[[Curtiss BF2C Goshawk]] ||US||Carrier fighter-bomber||1933||Production||{{nts|166}}||
+|-
+|[[Curtiss F6C Hawk]]||US||Carrier fighter||1923||Production||{{nts|75}}||
+|-
+|[[Curtiss F7C Seahawk]]||US||Carrier fighter||1927||Production||{{nts|17}}||
+|-
+|[[Curtiss F8C Falcon/Helldiver]] ||US||Carrier fighter-bomber||1928||Production||{{nts|153}}||
+|-
+|[[Curtiss F9C Sparrowhawk]] ||US||Parasite fighter||1931||Production||{{nts|7}}||
+|-
+|[[Curtiss XF10C Helldiver]] ||US||Fighter-bomber||1932||Prototype||{{nts|1}}||
+|-
+|[[Curtiss F11C Goshawk]]||US||Carrier fighter||1932||Production||{{nts|30}}||
+|-
+|[[Curtiss F12C]] ||US||Carrier fighter-bomber||1933||Prototype||{{nts|1}}||
+|-
+|[[Curtiss XF13C]]||US||Carrier fighter||1934||Prototype||{{nts|1}}||
+|-
+|[[Curtiss XF14C]]||US||Carrier fighter||1943||Prototype||{{nts|1}}||
+|-
+|[[Curtiss XF15C]] ||US||Carrier fighter||1945||Prototype||{{nts|3}}||
+|-
+|[[Curtiss PW-8]]||US||||1923||Production||{{nts|28}}||
+|-
+|[[Curtiss P-1 Hawk]]||US||||1925||Production||{{nts|146}}||
+|-
+|[[Curtiss P-2 Hawk]]||US||||1925||Production||{{nts|5}}||
+|-
+|[[Curtiss P-3 Hawk]]/XP-21||US||||1928||Production||{{nts|6}}||
+|-
+|[[Curtiss P-5 Superhawk]]||US||||1928||Production||{{nts|5}}||
+|-
+|[[Curtiss P-6 Hawk]]||US||||1927||Production||{{nts|70}}||
+|-
+|[[Curtiss XP-10]]||US||||1928||Prototype||{{nts|1}}||
+|-
+|[[Curtiss YP-20]]||US||||1928||Prototype||{{nts|1}}||
+|-
+|[[Curtiss XP-31 Swift]]||US||||1933||Prototype||{{nts|1}}||
+|-
+|[[Curtiss P-36 Hawk]]||US||||1935||Production||{{nts|1115}}||
+|-
+|[[Curtiss XP-37]]||US||||1939||Prototype||{{nts|14}}||
+|-
+|[[Curtiss P-40 Warhawk]]||US||||1938||Production||{{nts|13738}}||
+|-
+|[[Curtiss XP-46]]||US||||1941||Prototype||{{nts|2}}||
+|-
+|[[Curtiss XP-53 & P-60]]||US||||1941||Prototype||{{nts|5}}||
+|-
+|[[Curtiss XP-62]]||US||Interceptor||1943||Prototype||{{nts|1}}||
+|-
+|[[Curtiss-Wright CW-21]] ||US||Lightweight fighter||1938||Production||{{nts|62}}||
+|-
+|[[Curtiss-Wright XP-55 Ascender]]||US||||1943||Prototype||{{nts|3}}||
+|-
+|[[Curtiss-Wright XF-87 Blackhawk]]||US||All-weather interceptor||1948||Prototype||{{nts|2}}||
+|-
+|[[Daimler D.I]]||Germany||||1918||Prototype||{{nts|6}}||
+|-
+|[[Daimler L11]]||Germany||||1918||Prototype||{{nts|1}}||
+|-
+|[[Daimler L14]]||Germany||||1919||Prototype||{{nts|1}}||
+|-
+|[[Dassault Balzac V]]||France||VTOL fighter||1962||Prototype||{{nts|1}}||
+|-
+|[[Dassault Étendard II]]||France||||1956||Prototype||{{nts|1}}||
+|-
+|[[Dassault Étendard IV]]||France||Strike fighter||1958||Production||{{nts|90}}||
+|-
+|[[Dassault Étendard VI]]||France||Fighter-bomber||1957||Prototype||{{nts|2}}||
+|-
+|[[Dassault Mirage III]]||France||||1956||Operational||{{nts|1422}}||
+|-
+|[[Dassault Mirage IIIV]] ||France||VTOL fighter||1965||Prototype||{{nts|2}}||
+|-
+|[[Dassault Mirage 5 & 50]]||France||Fighter-bomber||1967||Operational||{{nts|582}}||
+|-
+|[[Dassault Mirage 2000]]||France||Lightweight fighter-bomber||1978||Operational||{{nts|601}}<!--# includes 2000N/2000D-->||<ref group=note name=non-fighter/>
+|-
+|[[Dassault Mirage 4000]]||France||Interceptor/fighter-bomber||1979||Prototype||{{nts|1}}||
+|-
+|[[Dassault Mirage F1]]||France||Fighter-bomber||1966||Operational||{{nts|720}}||
+|-
+|[[Dassault Mirage F2]]||France||Fighter-bomber||1966||Prototype||{{nts|1}}||
+|-
+|[[Dassault Mirage G]]||France||||1967||Prototype||{{nts|3}}||
+|-
+|[[Dassault Mystère]]||France||Fighter-bomber||1951||Production||{{nts|166}}||
+|-
+|[[Dassault Mystère IV]]||France||Fighter-bomber||1952||Production||{{nts|411}}||
+|-
+|[[Dassault Ouragan]]||France||Fighter-bomber||1949||Production||{{nts|362}}||
+|-
+|[[Dassault Rafale]]||France||||1986||Operational||{{nts|237}}||<ref name= "rafale deliveries">[https://www.senat.fr/rap/a08-102-5/a08-102-516.html  "Projet de loi de finances pour 2010: Défense – Equipement des forces"] (in French) ''Sénat de France,'' 2009.</ref>
+|-
+|[[Dassault Super Mystère]]||France||Fighter-bomber||1955||Production||{{nts|180}}||
+|-
+|[[Dassault-Breguet Super Étendard]]||France||Strike fighter||1974||Operational||{{nts|85}}||
+|-
+|[[Dayton-Wright XPS-1]]||US||||1923||Prototype||{{nts|3}}||
+|-
+|[[de Bruyère C.1]] ||France||||1917||Prototype||{{nts|1}}||<ref>Bruce, 1995</ref>
+|-
+|[[de Havilland Dormouse]]||UK||||1924||Prototype||{{nts|1}}||
+|-
+|[[de Havilland DH.77]]||UK||Interceptor||1929||Prototype||{{nts|1}}||
+|-
+|[[de Havilland Hornet/Sea Hornet]]||UK||Heavy fighter||1944||Production||{{nts|383}}||
+|-
+|[[de Havilland Mosquito]]||UK||Fighter-bomber/night fighter||1941||Production||{{nts|7781}}||<ref group=note name=non-fighter>Production total includes non-fighter variants</ref>
+|-
+|[[de Havilland Sea Venom]]||UK||Carrier fighter-bomber||1951||Production||{{nts|349}}||
+|-
+|[[de Havilland DH.110 Sea Vixen]]||UK||Carrier fighter||1951||Production||{{nts|145}}||
+|-
+|[[de Havilland Vampire/Sea Vampire]]||UK||||1943||Production||{{nts|3268}}||
+|-
+|[[de Havilland Venom]]||UK||Fighter-bomber||1949||Production||{{nts|1431}}||
+|-
+|[[De Marçay 2]]||France||||1918||Prototype||{{nts|1}}||
+|-
+|[[De Marçay 4]]||France||||1923||Prototype||{{nts|1}}||
+|-
+|[[de Monge M-101]]||France, Netherlands||Two-seat fighter||1924||Prototype||{{nts|1}}||
+|-
+|[[Descamps 27]]||France||||1918||Prototype||{{nts|1}}||
+|-
+|[[Dewoitine D.1]]||France||||1922||Production||{{nts|225}}||
+|-
+|[[Dewoitine D.8]]||France||||1923||Prototype||{{nts|1}}||
+|-
+|[[Dewoitine D.9]]||France||||1924||Production||{{nts|157}}||
+|-
+|[[Dewoitine D.12]]||France||||1925||Prototype||{{nts|2}}||
+|-
+|[[Dewoitine D.15]]||France||||1924||Prototype||{{nts|1}}||
+|-
+|[[Dewoitine D.19]]||France||||1925||Production||{{nts|5}}||
+|-
+|[[Dewoitine D.21 & D.53]]||France||||1925||Production||{{nts|100}}||
+|-
+|[[Dewoitine D.25]] ||France||Two-seat fighter||1926||Production||{{nts|5}}||
+|-
+|[[Dewoitine D.27]]||France||||1928||Production||{{nts|93}}||
+|-
+|[[Dewoitine D.371]]||France||||1931||Production||{{nts|87}}||
+|-
+|[[Dewoitine D.500 & D.501]]||France||||1932||Production||{{nts|259}}||
+|-
+|[[Dewoitine D.510]]||France||||1934||Production||{{nts|120}}||
+|-
+|[[Dewoitine D.503/D.511]]||France||||1935||Prototype||{{nts|1}}||
+|-
+|[[Dewoitine D.513 & 514]]||France||||1936||Prototype||{{nts|2}}||
+|-
+|[[Dewoitine D.520]]||France||||1938||Production||{{nts|900}}||
+|-
+|[[Dewoitine D.535]]||France||||1932||Prototype||{{nts|1}}||
+|-
+|[[Dewoitine D.560 & D.570]]||France||||1932||Prototype||{{nts|1}}||
+|-
+|[[DFW Floh]]||Germany||||1915||Prototype||{{nts|1}}||
+|-
+|[[Díaz Type C]]||Spain||||1919||Prototype||{{nts|1}}||
+|-
+|[[Dobi-III]]||Lithuania||||1924||Prototype||{{nts|1}}||
+|-
+|[[Doflug D-3802]]||Switzerland||||1944||Production||{{nts|12}}||
+|-
+|[[Doflug D-3803]]||Switzerland||||1947||Prototype||{{nts|1}}||
+|-
+|[[Dornier Do H]]||Germany||||1922||Prototype||{{nts|4}}||
+|-
+|[[Dornier Do 10]]||Germany||Two-seat fighter||1931||Prototype||{{nts|2}}||
+|-
+|[[Dornier Do 17]]||Germany||Night fighter||1934||Production||{{nts|2139}}||<ref group=note name=non-fighter />
+|-
+|[[Dornier Do 215]]||Germany||Night fighter||1938||Production||{{nts|105}}||<ref group=note name=non-fighter />
+|-
+|[[Dornier Do 217]] ||Germany||Night fighter||1938||Production||{{nts|1925}}||<ref group=note name=non-fighter />
+|-
+|[[Dornier Do 335]]||Germany||Heavy fighter||1943||Production||{{nts|37}}||
+|-
+|[[Douglas P-70 Havoc]]||US||Night fighter||1939||Production||{{nts|7478}}||<ref group=note name=non-fighter />
+|-
+|[[Douglas XA-26A]]||US||Night fighter||1942||Prototype||{{nts|1}}||
+|-
+|[[Douglas XFD]]||US||Carrier fighter||1933||Prototype||{{nts|1}}||
+|-
+|[[Douglas F3D Skyknight]]||US||Carrier night fighter||1948||Production||{{nts|265}}||
+|-
+|[[Douglas F4D Skyray]]||US||Carrier fighter||1951||Production||{{nts|422}}||
+|-
+|[[Douglas F5D Skylancer]]||US||Carrier fighter||1956||Production||{{nts|4}}||
+|-
+|[[Ducrot SLD]]||Italy||||1918||Prototype||{{nts|1}}||
+|-
+|[[Dufaux avions-canon]]||Switzerland||Cannon fighter||1917||Prototype||{{nts|1}}||
+|-
+|[[Dufaux C.1]]||Switzerland||||1916||Prototype||{{nts|1}}||
+|-
+|[[Eberhart XFG & XF2G]]||US||Carrier fighter||1927||Prototype||{{nts|1}}||
+|-
+|[[EFW N-20]]||Switzerland||||1952||Prototype||{{nts|1}}||
+|-
+|[[ENAER Pantera]]||Chile||Fighter-bomber||1988||Operational||{{nts|15}}||
+|-
+|[[Engels MI]]||Russia||||1916||Production||{{nts|4}}||
+|-
+|[[Engineering Division PW-1]]<!--fighter variant of Verville VCP-->||US||||1921||Prototype||{{nts|1}}||
+|-
+|[[Engineering Division TP-1]] ||US||Two-seat fighter||1923||Prototype||{{nts|1}}||
+|-
+|[[English Electric Lightning]]||UK||Interceptor||1954||Production||{{nts|337}}||
+|-
+|[[Euler D.I]]||Germany||||1916||Production||{{nts|75}}||
+|-
+|[[Euler D.II]]||Germany||||1917||Production||{{nts|30}}||
+|-
+|[[Euler Dr 1]]||Germany||||1917||Prototype||{{nts|1}}||<!--not Idflieg designation-->
+|-
+|[[Euler Dr 2]]||Germany||||1917||Prototype||{{nts|1}}||<!--not Idflieg designation-->
+|-
+|[[Euler Dr 3]]||Germany||||1917||Prototype||{{nts|1}}||<!--not Idflieg designation-->
+|-
+|[[Euler Gelber Hund]]||Germany||||1915||Prototype||{{nts|1}}||
+|-
+|[[Euler Vierdecker]] ||Germany||||1917||Prototype||{{nts|1}}||
+|-
+|[[Euler Versuchszweisitzer]]||Germany||Two-seat fighter||1915||Prototype||{{nts|1}}||
+|-
+|[[Eurofighter Typhoon]]||UK, Germany, Italy, Spain||Fighter-bomber||1994||Operational||{{nts|571}}||
+|-
+|[[Fairey F.2]] ||UK||Long-range fighter||1917||Prototype||{{nts|1}}||
+|-
+|[[Fairey Fantôme]]||UK||||1935||Prototype||{{nts|4}}||
+|-
+|[[Fairey Fleetwing]]||UK||Fleet fighter||1929||Prototype||{{nts|1}}||
+|-
+|[[Fairey Flycatcher]]||UK||||1922||Production||{{nts|196}}||
+|-
+|[[Fairey Firefly]] ||UK||Fleet fighter||1941||Production||{{nts|1,702}}||
+|-
+|[[Fairey Firefly II]]||UK||||1929||Production||{{nts|91}}||
+|-
+|[[Fairey Fox]] ||UK||Fighter-reconnaissance||1929||Production||{{nts|112}} ca.||
+|-
+|[[Fairey Fulmar]] ||UK||Fleet fighter||1940||Production||{{nts|600}}||
+|-
+|[[Fairey Hamble Baby]] ||UK||Floatplane fighter||1916||Production||{{nts|180}}||
+|-
+|[[Fairey Pintail]] ||UK||Floatplane fighter||1921||Production||{{nts|6}}||
+|-
+|[[Farman HF.30]] ||France||Two-seat fighter||1916||Prototype||{{nts|3}}||
+|-
+|[[Farman F.31]] ||France||Two-seat fighter||1918||Prototype||{{nts|1}}||
+|-
+|[[FBA Ca2 Avion-Canon]]||France||Cannon fighter||1916||Prototype||{{nts|1}}||
+|-
+|[[FFA P-16]]||Switzerland||||1955||Prototype||{{nts|5}}||
+|-
+|[[FFVS 22]]||Sweden||||1942||Production||{{nts|198}}||
+|-
+|[[FMA I.Ae. 27 Pulqui I]]||Argentina||||1947||Prototype||{{nts|1}}||
+|-
+|[[FMA I.Ae. 30 Ñancú]]||Argentina||Escort fighter||1948||Prototype||{{nts|1}}||
+|-
+|[[FMA I.Ae. 33 Pulqui II]]||Argentina||||1950||Prototype||{{nts|5}}||
+|-
+|[[Fiat CR.1|Fiat CR.1/CR.2/CR.5/CR.10]]||Italy||||1924||Production||{{nts|251}}||
+|-
+|[[Fiat CR.20]]||Italy||||1926||Production||{{nts|735}}||
+|-
+|[[Fiat CR.25]] ||Italy||Heavy fighter||1937||Production||{{nts|10}}||<ref group=note name=non-fighter />
+|-
+|[[Fiat CR.30]]||Italy||||1932||Production||{{nts|176}}||
+|-
+|[[Fiat CR.32/CR.33/CR.40/CR.41]]||Italy||||1933||Production||{{nts|1306|-|1332}}||
+|-
+|[[Fiat CR.42 Falco]]||Italy||||1938||Production||{{nts|1817}}||
+|-
+|[[Fiat G.50 Freccia]]||Italy||||1937||Production||{{nts|791}}||
+|-
+|[[Fiat G.55/G.56/G.59]] Centauro||Italy||||1942||Production||{{nts|349}}||
+|-
+|[[Fiat G.91]] ||Italy||Strike fighter||1956||Production||{{nts|770}}||
+|-
+|[[Fisher P-75 Eagle]]||US||Heavy fighter||1943||Prototype||{{nts|13}}||
+|-
+|[[Focke-Wulf Fw 57]]||Germany||Fighter-bomber||1936||Prototype||{{nts|3}}||
+|-
+|[[Focke-Wulf Fw 159]]||Germany||||1935||Prototype||{{nts|2}}||
+|-
+|[[Focke-Wulf Fw 187]] ||Germany||Heavy fighter||1937||Prototype||{{nts|9}}||
+|-
+|[[Focke-Wulf Fw 190]]||Germany||Fighter-bomber||1939||Production||{{nts|20000}}+||
+|-
+|[[Focke-Wulf Ta 152]]||Germany||High-altitude interceptor||1944||Production||{{nts|49}}||
+|-
+|[[Focke-Wulf Ta 154]] ||Germany||Night fighter||1943||Production||{{nts|50}}||
+|-
+|[[Fokker D.I]]||Germany||||1916||Production||{{nts|144}}||
+|-
+|[[Fokker D.II]]||Germany||||1916||Production||{{nts|177}}||
+|-
+|[[Fokker D.III]]||Germany||||1916||Production||{{nts|210}}||
+|-
+|[[Fokker D.IV]]||Germany||||1916||Production||{{nts|44}}||
+|-
+|[[Fokker D.V]]||Germany||||1916||Production||{{nts|216}}||
+|-
+|[[Fokker D.VI]]||Germany||||1918||Production||{{nts|59}}||
+|-
+|[[Fokker D.VII & V.34 & 36]]||Germany||||1918||Production||{{nts|3300}}||
+|-
+|[[Fokker D.IX/PW-6]]||Netherlands||||1921||Prototype||{{nts|1}}||
+|-
+|[[Fokker D.X]]||Netherlands||||1918||Production||{{nts|11}}||
+|-
+|[[Fokker D.XI/PW-7]]||Netherlands||||1923||Production||{{nts|117}}||
+|-
+|[[Fokker D.XII]]||Netherlands||||1924||Prototype||{{nts|1}}||
+|-
+|[[Fokker D.XIII]]||Netherlands||||1924||Production||{{nts|53}}||
+|-
+|[[Fokker D.XIV]]||Netherlands||||1925||Prototype||{{nts|1}}||
+|-
+|[[Fokker D.XVI]]||Netherlands||||1929||Production||{{nts|22}}||
+|-
+|[[Fokker D.XVII]]||Netherlands||||1931||Prototype||{{nts|11}}||
+|-
+|[[Fokker D.XXI]]||Netherlands||||1936||Production||{{nts|148}}||
+|-
+|[[Fokker D.XXIII]]||Netherlands||||1939||Prototype||{{nts|1}}||
+|-
+|[[Fokker DC.I]]||Netherlands||||1923||Production||{{nts|10}}||
+|-
+|[[Fokker Dr.I]]||Germany||||1917||Production||{{nts|320}}||
+|-
+|[[Fokker E.I]]||Germany||||1915||Production||{{nts|54}}||
+|-
+|[[Fokker E.II]]||Germany||||1915||Production||{{nts|49}}||
+|-
+|[[Fokker E.III]]||Germany||||1915||Production||{{nts|249}}||
+|-
+|[[Fokker E.IV]]||Germany||||1915||Production||{{nts|49}}||
+|-
+|[[Fokker E.V/D.VIII]]||Germany||||1918||Production||{{nts|381}} ca.||
+|-
+|[[Fokker G.I]]||Netherlands||||1937||Production||{{nts|63}}||
+|-
+|[[Fokker K.I]] ||Germany||Heavy fighter||1915||Prototype||{{nts|1}}||
+|-
+|[[Fokker M.16/B.III]]||Germany||||1915||Production||{{nts|28}}||
+|-
+|[[Fokker PW-5]]||Netherlands||||1921||Production||{{nts|12}}||
+|-
+|[[Fokker V.1]]||Germany||||1916||Prototype||{{nts|1}}||
+|-
+|[[Fokker V.2]]||Germany||||1916||Prototype||{{nts|1}}||
+|-
+|[[Fokker V.3]]||Germany||||1916||Prototype||{{nts|1}}||
+|-
+|[[Fokker V.4]]||Germany||||1916||Prototype||{{nts|1}}||
+|-
+|[[Fokker V.6]]||Germany||||1917||Prototype||{{nts|1}}||<!--inline enlarged Dr.I-->
+|-
+|[[Fokker V.7]]||Germany||||1918||Prototype||{{nts|5}}||
+|-
+|[[Fokker V.8]]||Germany||||1917||Prototype||{{nts|1}}||
+|-
+|[[Fokker V.17|Fokker V.17, V.20, V.23 & V.25]]||Germany||||1917||Prototype||{{nts|4}}||
+|-
+|[[Fokker V.27|Fokker V.27 & V.37]] ||Germany||||1918||Prototype||{{nts|2}}||
+|-
+|[[Folland Gnat]]||UK||Lightweight fighter||1955||Production||{{nts|449}}||
+|-
+|[[Folland Midge]]||UK||Lightweight fighter||1954||Prototype||{{nts|1}}||
+|-
+|[[Friedrichshafen FF.43]]||Germany||||1916||Prototype||{{nts|1}}||
+|-
+|[[Friedrichshafen FF.46]]||Germany||||1916||Prototype||{{nts|1}}||
+|-
+|[[Friedrichshafen FF.54]]||Germany||||1917||Prototype||{{nts|1}} ca.||
+|-
+|[[FVM J 23]]||Sweden||||1923||Production||{{nts|5}}||
+|-
+|[[FVM J 24]]||Sweden||||1924||Prototype||{{nts|2}}||
+|-
+|[[Gabardini G.8]]||Italy||||1923||Prototype||{{nts|1}}+||
+|-
+|[[Gabardini G.9]]||Italy||||1923||Prototype||{{nts|1}}+||
+|-
+|[[Galvin HC]]||France||Floatplane fighter||1919||Prototype||{{nts|1}}||
+|-
+|[[Geest Fighter]]||Germany||||1917||Prototype||{{nts|1}}||
+|-
+|[[General Aviation XFA]]||US||||1932||Prototype||{{nts|1}}||
+|-
+|[[General Dynamics F-16 Fighting Falcon]]||US||||1974||Operational||{{nts|4500}}||
+|-
+|[[General Dynamics F-16XL]]||US||||1982||Prototype||{{nts|2}}||
+|-
+|[[General Dynamics/Grumman F-111B]]||US||Interceptor||1965||Prototype||{{nts|7}}||
+|-
+|[[Germania DB]]||Germany||Two-seat fighter||1915||Prototype||{{nts|1}}||
+|-
+|[[Germania JM]]||Germany||||1916||Prototype||{{nts|1}}||
+|-
+|[[Gloster E.1/44]]||UK||Jet||1948||Prototype||{{nts|3}}||
+|-
+|[[Gloster F.5/34]]||UK||||1937||Prototype||{{nts|2}}||
+|-
+|[[Gloster F.9/37]]||UK||||1939||Prototype||{{nts|2}}||
+|-
+|[[Gloster Gambet]]||UK, Japan||||1927||Production||{{nts|151}}||
+|-
+|[[Gloster Gamecock]]||UK||||1925||Production||{{nts|98}}||
+|-
+|[[Gloster Gauntlet]]||UK||||1933||Production||{{nts|246}}||
+|-
+|[[Gloster Gladiator|Gloster Gladiator & Sea Gladiator]]||UK||||1934||Production||{{nts|747}}||
+|-
+|[[Gloster Gnatsnapper]]||UK||Carrier fighter||1928||Prototype||{{nts|2}}||
+|-
+|[[Gloster Goldfinch]]||UK||||1927||Prototype||{{nts|1}}||
+|-
+|[[Gloster Gorcock]]||UK||||1925||Prototype||{{nts|3}}||
+|-
+|[[Gloster Grebe]]||UK||||1923||Production||{{nts|133}}||
+|-
+|[[Gloster Grouse]]||UK||||1923||Prototype||{{nts|1}}||
+|-
+|[[Gloster Guan]]||UK||||1926||Prototype||{{nts|2}}||
+|-
+|[[Gloster Javelin]]||UK||All-weather interceptor||1951||Production||{{nts|436}}||
+|-
+|[[Gloster Sparrowhawk|Gloster Mars, Nightjar & Sparrowhawk]]||UK||||1921||Production||{{nts|91}}||
+|-
+|[[Gloster Meteor]]||UK||Jet||1943||Production||{{nts|3947}}||
+|-
+|[[Goodyear F2G Corsair]]||US||||1945||Prototype||{{nts|10}}||
+|-
+|[[Gorbunov 105]]||USSR||||1943||Prototype||{{nts|10}}||
+|-
+|[[Gourdou-Leseurre Type A]]||France||||1918||Prototype||{{nts|1}}||
+|-
+|[[Gourdou-Leseurre GL.2|Gourdou-Leseurre Type B, GL.2/21/22/23/24]]||France||||1918||Production||{{nts|136}}+||
+|-
+|[[Gourdou-Leseurre GL.30 series]]||France||||1920||Production||{{nts|500}}+||
+|-
+|[[Gourdou-Leseurre GL.30|Gourdou-Leseurre GL.40, 410 & 450]]||France||||1932||Prototype||{{nts|3}}||
+|-
+|[[Gourdou-Leseurre GL.50]]||France||||1922||Prototype||{{nts|2}}||
+|-
+|[[Gourdou-Leseurre GL.482]]||France||||1933||Prototype||{{nts|1}}||
+|-
+|[[Grigorovich I-1]]||USSR||||1924||Prototype||{{nts|1}}||
+|-
+|[[Grigorovich I-2|Grigorovich I-2 & I-2bis]]||USSR||||1924||Production||{{nts|211}}||
+|-
+|[[Grigorovich DI-3]]||USSR||||1931||Prototype||{{nts|1}}||
+|-
+|[[Grigorovich I-Z]]||USSR||||1931||Production||{{nts|73}}||
+|-
+|[[Grigorovich IP-1]]||USSR||Cannon fighter||1935||Production||{{nts|90}}||
+|-
+|[[Grigorovich IP-4]]||USSR||Cannon fighter||1934||Prototype||{{nts|1}}||
+|-
+|[[Grumman FF|Grumman FF/G-5/G-23 Goblin]]||US||Carrier fighter||1931||Production||{{nts|85}}||
+|-
+|[[Grumman F2F]]||US||Carrier fighter||1933||Production||{{nts|55}}||
+|-
+|[[Grumman F3F]]||US||Carrier fighter||1935||Production||{{nts|147}}||
+|-
+|[[Grumman F4F Wildcat]]||US||Carrier fighter||1937||Production||{{nts|7885}}||<ref group=note>Includes FM & FM-2</ref>
+|-
+|[[Grumman XF5F Skyrocket]]||US||Carrier interceptor||1940||Prototype||{{nts|1}}||
+|-
+|[[Grumman F6F Hellcat]]||US||Carrier fighter||1942||Production||{{nts|12275}}||
+|-
+|[[Grumman F7F Tigercat]]||US||Carrier heavy fighter||1943||Production||{{nts|364}}||
+|-
+|[[Grumman F8F Bearcat]]||US||Carrier fighter-bomber||1944||Production||{{nts|1266}}||
+|-
+|[[Grumman F9F Panther]]||US||Carrier fighter-bomber||1947||Production||{{nts|1382}}||
+|-
+|[[Grumman F-9 Cougar]]||US||Carrier fighter||1951||Production||{{nts|1392}}||
+|-
+|[[Grumman XF10F Jaguar]]||US||Carrier fighter||1952||Prototype||{{nts|1}}||
+|-
+|[[Grumman F-11 Tiger]]||US||Carrier fighter||1954||Production||{{nts|200}}||
+|-
+|[[Grumman F-14 Tomcat]]||US||Carrier interceptor||1970||Operational||{{nts|712}}||<!--Still used by Iran--> 
+|-
+|[[Grumman XP-50]]||US||||1941||Prototype||{{nts|1}}||
+|-
+|[[Grumman FF|Grumman GG]]||US||||1934||Prototype||{{nts|1}}||
+|-
+|[[Grumman FF|Grumman SF/G-6]]||US||Carrier fighter||1932||Production||{{nts|35}}||
+|-
+|[[Gudkov GU-1]]||USSR||||1943||Prototype||{{nts|1}}||
+|-
+|[[Gudkov GU-82]]||USSR||||1941||Prototype||{{nts|1}}||
+|-
+|[[Guizhou JL-9]]||China||||2003||Operational||{{nts|12}}+||
+|-
+|[[Häfeli DH-4]]||Switzerland||||1918||Prototype||{{nts|1}}||
+|-
+|[[HAL Ajeet]]||India, UK||Lightweight fighter||1976||Production||{{nts|89}}||
+|-
+|[[HAL HF-24 Marut]]||India||Fighter-bomber||1961||Production||{{nts|147}}||
+|-
+|[[HAL Tejas|HAL Tejas Mk1/Mk1A]]||India||Lightweight fighter-bomber||2001||Operational||{{nts|32}}||
+|-
+|[[HAL Tejas Mk2]]||India||Fighter-bomber||2019||Project||{{nts|0}}||
+|-
+|[[HAL TEDBF]]||India||Carrier fighter-bomber||2020||Project||{{nts|0}}||
+|-
+|[[HAL AMCA]]||India||Fighter-bomber||2019||Project||{{nts|0}}||<ref>{{cite web|url= http://ibnlive.in.com/news/india-to-build-its-own-stealth-fighter-jet/173785-3.html|title=India to build own stealth fighter|work= IBN Live|access-date=14 November 2014|url-status= dead|archive-url= https://web.archive.org/web/20150318011225/http://ibnlive.in.com/news/india-to-build-its-own-stealth-fighter-jet/173785-3.html|archive-date=18 March 2015}}</ref>
+|-
+|[[Halberstadt D.I]]||Germany||||1915||Prototype||{{nts|2}}||
+|-
+|[[Halberstadt D.II|Halberstadt D.II - D.V]]||Germany||||1915||Production||{{nts|85}}||
+|-
+|[[Hall XFH]]||US||Carrier fighter||1929||Prototype||{{nts|1}}||
+|-
+|[[Handley Page Type S]]||UK||||1923||Prototype||{{nts|2}}||
+|-
+|[[Hannover CL.II]]||Germany||Escort fighter||1917||Production||{{nts|439}}||
+|-
+|[[Hanriot HD.1]]||France||||1916||Production||{{nts|1200}}||
+|-
+|[[Hanriot HD.2]]||France||Floatplane fighter||1917||Production||{{nts|140}} ca.||
+|-
+|[[Hanriot HD.3]]||France||||1917||Production||{{nts|90}} ca.||
+|-
+|[[Hanriot HD.5]]||France||Two-seat fighter||1918||Prototype||{{nts|1}}||
+|-
+|[[Hanriot HD.6]]||France||Two-seat fighter||1919||Prototype||{{nts|1}}||
+|-
+|[[Hanriot HD.7]]||France||||1918||Prototype||{{nts|1}}||
+|-
+|[[Hanriot HD.8]]||France||||1918||Prototype||{{nts|1}}||
+|-
+|[[Hanriot HD.12]]||France||||1921||Prototype||{{nts|1}}||
+|-
+|[[Hanriot HD.15]]||France||High-altitude fighter||1922||Prototype||{{nts|4}}||
+|-
+|[[Hanriot HD.20]]||France||Shipboard fighter||1923||Prototype||{{nts|1}}||
+|-
+|[[Hanriot H.26]]||France||||1923||Prototype||{{nts|1}}||
+|-
+|[[Hanriot H.31]]||France||||1925||Prototype||{{nts|1}}||
+|-
+|[[Hanriot H.33]]||France||Two-seat fighter||1926||Prototype||{{nts|1}}||
+|-
+|[[Hanriot H.110|Hanriot H.110 & H.115]]||France||||1933||Prototype||{{nts|1}}||
+|-
+|[[SNCAC NC-600|Hanriot H.220, H.220-2 & SNCAC NC-600]]||France||Heavy fighter||1937||Prototype||{{nts|3}}||
+|-
+|[[Hansa-Brandenburg CC]]||Germany||Flying boat fighter||1916||Production||{{nts|73}}||
+|-
+|[[Hansa-Brandenburg D.I]]||Austria-Hungary||||1916||Production||{{nts|122}}||
+|-
+|[[Hansa-Brandenburg KDW]]||Germany||Floatplane fighter||1916||Production||{{nts|60}} ca.||
+|-
+|[[Hansa-Brandenburg KF]]||Germany||||1916||Prototype||{{nts|1}}||
+|-
+|[[Hansa-Brandenburg L.14]]||Austria-Hungary||||1917||Prototype||{{nts|2}}||
+|-
+|[[Hansa-Brandenburg L.16]]||Austria-Hungary||||1917||Prototype||{{nts|1}}||
+|-
+|[[Hansa-Brandenburg W.11]]||Germany||Floatplane fighter||1917||Prototype||{{nts|2}}||
+|-
+|[[Hansa-Brandenburg W.12]]||Germany||Floatplane fighter||1917||Production||{{nts|181}}||
+|-
+|[[Hansa-Brandenburg W.16]]||Germany||Floatplane fighter||1917||Prototype||{{nts|3}}||
+|-
+|[[Hansa-Brandenburg W.17]]||Germany||Flying-boat fighter||1917||Prototype||{{nts|2}}||
+|-
+|[[Hansa-Brandenburg W.18]]||Germany||Flying-boat fighter||1917||Production||{{nts|48}}||
+|-
+|[[Hansa-Brandenburg W.19]]||Germany||Floatplane fighter||1918||Production||{{nts|55}}||
+|-
+|[[Hansa-Brandenburg W.25]]||Germany||Floatplane fighter||1917||Prototype||{{nts|1}}||
+|-
+|[[Hansa-Brandenburg W.27]]||Germany||Floatplane fighter||1918||Prototype||{{nts|1}}||
+|-
+|[[Hansa-Brandenburg W.29|Hansa-Brandenburg W.29/W.33]]||Germany||Floatplane fighter||1918||Production||{{nts|78}}+||
+|-
+|[[Hansa-Brandenburg W.32]]||Germany||Floatplane fighter||1918||Prototype||{{nts|1}}||
+|-
+|[[Hawker Demon]]||UK||||1931||Production||{{nts|290}}||
+|-
+|[[Hawker F.20/27]]||UK||||1928||Prototype||{{nts|1}}||
+|-
+|[[Hawker Fury]]||UK||||1931||Production||{{nts|275}}||
+|-
+|[[Hawker Fury (monoplane)]]||UK||||1944||Prototype||{{nts|3}}||
+|-
+|[[Hawker Hart Fighter]]||UK||||1931||Production||{{nts|6}}||
+|-
+|[[Hawker Hawfinch]]||UK||||1927||Prototype||{{nts|1}}||
+|-
+|[[Hawker Heron]]||UK||||1925||Prototype||{{nts|1}}||
+|-
+|[[Hawker Hoopoe]]||UK||||1928||Prototype||{{nts|1}}||
+|-
+|[[Hawker Hornbill]]||UK||||1925||Prototype||{{nts|1}}||
+|-
+|[[Hawker Hotspur]]||UK||Turret fighter||1938||Prototype||{{nts|1}}||
+|-
+|[[Hawker Hunter]]||UK||Fighter-bomber||1951||Production||{{nts|1972}}||
+|-
+|[[Hawker Hurricane|Hawker Hurricane & Sea Hurricane]]||UK||Fighter-bomber||1935||Production||{{nts|14533}}||
+|-
+|[[Hawker Siddeley P.1127|Hawker Siddeley Kestrel FGA.1]]||UK||V/STOL Fighter-bomber||1964||Production||{{nts|9}}||
+|-
+|[[Hawker Nimrod]]||UK||Carrier fighter||1931||Production||{{nts|92}}||
+|-
+|[[Hawker Osprey]]||UK||Fleet fighter/reconnaissance||1930||Production||{{nts|124}}||
+|-
+|[[Hawker P.1081]]||UK||||1950||Prototype||{{nts|1}}||
+|-
+|[[Hawker P.V.3]]||UK||Day & night fighter||1934||Prototype||{{nts|1}}||
+|-
+|[[Hawker Sea Fury]]||UK||Carrier fighter||1945||Production||{{nts|860}}||
+|-
+|[[Hawker Sea Hawk]]||UK||Carrier jet fighter||1947||Production||{{nts|542}}||
+|-
+|[[Hawker Tempest]]||UK||||1942||Production||{{nts|1702}}||
+|-
+|[[Hawker Tornado]]||UK||||1939||Prototype||{{nts|4}}||
+|-
+|[[Hawker Typhoon]]||UK||Fighter-bomber||1940||Production||{{nts|3317}}||
+|-
+|[[Hawker Woodcock|Hawker Woodcock/Danecock/Dankok]]||UK||||1923||Production||{{nts|64}}||
+|-
+|[[Heinkel HD 23]]||Germany||||1926||Prototype||{{nts|4}}||
+|-
+|[[Heinkel HD 37]]||Germany||||1928||Production||{{nts|134}}||
+|-
+|[[Heinkel HD 38]]||Germany||||1928||Production||{{nts|12}}||
+|-
+|[[Heinkel HD 43]]||Germany||||1931||Prototype||{{nts|1}}||
+|-
+|[[Heinkel He 49]]||Germany||||1932||Prototype||{{nts|4}}||
+|-
+|[[Heinkel He 51]]||Germany||||1933||Production||{{nts|700}}||
+|-
+|[[Heinkel He 74]]||Germany||Lightweight fighter||1933||Prototype||{{nts|3}}||
+|-
+|[[Heinkel He 100|Heinkel He 100/He 113]]||Germany||||1938||Prototype||{{nts|25}}||
+|-
+|[[Heinkel He 112]]||Germany||||1935||Production||{{nts|104}}||
+|-
+|[[Heinkel He 162]] ''Volksjäger''||Germany||||1944||Production||{{nts|170}}||
+|-
+|[[Heinkel He 219]]||Germany||Night fighter||1942||Production||{{nts|300}}||
+|-
+|[[Heinkel He 280]]||Germany||||1940||Prototype||{{nts|9}}||
+|-
+|[[Heinrich Pursuit]]||US||||1917||Prototype||{{nts|4}}||
+|-
+|[[Helwan HA-300]]||Egypt||||1964||Prototype||{{nts|3}}||
+|-
+|[[Henschel Hs 124]]||Germany||Heavy fighter||1936||Prototype||{{nts|2}}||
+|-
+|[[HESA Azarakhsh]]||Iran||||1997||Operational||{{nts|11}}||
+|-
+|[[HESA Saeqeh]]||Iran||||2004||Operational||{{nts|24}}||
+|-
+|[[Hispano Aviación HA-1112]]||Spain, Germany||||1951||Production||{{nts|239}}||
+|-
+|[[Hispano Barrón]]||Spain||||1919||Prototype||{{nts|2}}||
+|-
+|[[Horten Ho 229]]||Germany||Fighter-bomber jet flying wing||1944||Prototype||{{nts|3}}||
+|-
+|[[Hughes D-2]]||US||fighter-bomber||1943||Prototype||{{nts|1}}||
+|-
+|[[IAI Kfir]]||Israel||||1973||Operational||{{nts|220}}||
+|-
+|[[IAI Lavi]]||Israel||||1986||Prototype||{{nts|3}}||
+|-
+|[[IAI Nammer]]||Israel||||1991||Prototype||{{nts|1}}||
+|-
+|[[IAI Nesher|IAI Nesher/Dagger]]||Israel||||1971||Production||{{nts|61}}||
+|-
+|[[IAR CV 11|IAR-11]]||Romania||||1930||Prototype||{{nts|2}}||
+|-
+|[[IAR-12]]||Romania||||1933||Prototype||{{nts|1}}||
+|-
+|[[IAR-13]]||Romania||||1933||Prototype||{{nts|1}}||
+|-
+|[[IAR-14]]||Romania||||1933||Production||{{nts|20}}||
+|-
+|[[IAR-15]]||Romania||||1933||Prototype||{{nts|5}}||
+|-
+|[[IAR-16]]||Romania||||1934||Prototype||{{nts|1}}||
+|-
+|[[IAR-80]]||Romania||||1939||Production||{{nts|346}}||
+|-
+|[[Ikarus IK-2]]||Yugoslavia||||1935||Production||{{nts|12}}||
+|-
+|[[Ikarus S-49]]||Yugoslavia||||1949||Production||{{nts|158}}||
+|-
+|[[Ilyushin I-21|Ilyushin I-21/TsKB-32]]||USSR||||1936||Prototype||{{nts|2}}||
+|-
+|[[Ilyushin Il-1]]||USSR||||1944||Prototype||{{nts|1}}||
+|-
+|[[Ilyushin Il-2I]]||USSR||||1939||Prototype||{{nts|1}}||<ref group=note name="First flight" />
+|-
+|[[IMAM Ro.41]]||Italy||||1934||Production||{{nts|753}}||
+|-
+|[[IMAM Ro.44]]||Italy||Floatplane fighter||1936||Production||{{nts|35}}||
+|-
+|[[IMAM Ro.51]]||Italy||||1937||Prototype||{{nts|2}}||
+|-
+|[[IMAM Ro.57]]||Italy||Interceptor/ground attack||1939||Production||{{nts|50}}||
+|-
+|[[IMAM Ro.58]]||Italy||fighter-bomber||1942||Prototype||{{nts|1}}||
+|-
+|[[IVL C.24]]||Finland||||1924||Prototype||{{nts|1}}||
+|-
+|[[IVL C.VI.25]]||Finland||||1925||Prototype||{{nts|1}}||
+|-
+|[[IVL Haukka]]||Finland||||1927||Prototype||{{nts|5}}||
+|-
+|[[Junkers CL.I]]||Germany||||1917||Production||{{nts|51}}||
+|-
+|[[Junkers EF 126]]||Germany||||1947||Prototype||{{nts|5}}||
+|-	
+|[[Junkers J 2]]||Germany||||1916||Prototype||{{nts|6}}||
+|-
+|[[Junkers J 7]]||Germany||||1917||Prototype||{{nts|1}}||
+|-
+|[[Junkers D.I|Junkers J 9/D.I]]||Germany||||1917||Production||{{nts|40}}||
+|-
+|[[Junkers T.22]]||Germany||||1923||Prototype||{{nts|2}}||
+|-
+|[[Junkers K 47]]||Germany||||1929||Production||{{nts|23}}||
+|-
+|[[Junkers Ju 88]]||Germany||Night fighter||1936||Production||{{nts|15000}} ca.||<ref group=note name=non-fighter />
+|-
+|[[Junkers Ju 388]]||Germany||Night fighter||1943||Production||{{nts|100}}||<ref group=note name=non-fighter />
+|-
+|[[KAI KF-21 Boramae]]||South Korea, Indonesia||||2021||Prototype||{{nts|1}}||
+|-
+|[[Kasyanenko KPI-5]]||Russia||||1917||Prototype||{{nts|1}}||
+|-
+|[[Kawanishi N1K Kyofu]]||Japan||Floatplane fighter||1942||Production||{{nts|97}}||
+|-
+|[[Kawanishi N1K-J Shiden]]||Japan||Interceptor||1942||Production||{{nts|1435}}||
+|-
+|[[Kawanishi K-11]]||Japan||Carrier fighter||1927||Prototype||{{nts|2}}||
+|-
+|[[Kawasaki KDA-3]]||Japan||||1928||Prototype||{{nts|3}}||
+|-
+|[[Kawasaki KDA-5 Army Type 92]]||Japan||||1930||Production||{{nts|385}}||
+|-
+|[[Kawasaki Ki-5]]||Japan||||1934||Prototype||{{nts|4}}||
+|-
+|[[Kawasaki Ki-10]]||Japan||||1935||Production||{{nts|588}}||
+|-
+|[[Kawasaki Ki-28]]||Japan||||1936||Prototype||{{nts|1}}||
+|-
+|[[Kawasaki Ki-45]]||Japan||Interceptor||1941||Production||{{nts|1691}}||
+|-
+|[[Kawasaki Ki-60]]||Japan||||1941||Prototype||{{nts|3}}||
+|-
+|[[Kawasaki Ki-61]]||Japan||||1941||Production||{{nts|3159}}||
+|-
+|[[Kawasaki Ki-64]]||Japan||Interceptor||1943||Prototype||{{nts|1}}||
+|-
+|[[Kawasaki Ki-96]]||Japan||||1943||Prototype||{{nts|3}}||
+|-
+|[[Kawasaki Ki-100]]||Japan||||1945||Production||{{nts|395}}||
+|-
+|[[Kawasaki Ki-102|Kawasaki Ki-102 & Ki-108]]||Japan||||1944||Production||{{nts|238}}||
+|-
+|[[Kochyerigin DI-6]]||USSR||||1934||Production||{{nts|222}}||
+|-
+|[[Kondor D.I]]||Germany||||1918||Prototype||{{nts|1}}||
+|-
+|[[Kondor D.II]]||Germany||||1918||Prototype||{{nts|1}}||
+|-
+|[[Kondor D.VI]]||Germany||||1918||Prototype||{{nts|1}}||
+|-
+|[[Kondor D.VII]]||Germany||||1917||Prototype||{{nts|1}}||
+|-
+|[[Koolhoven F.K.55]]||Netherlands||||1938||Prototype||{{nts|1}}||
+|-
+|[[Koolhoven F.K.58]]||Netherlands||||1938||Production||{{nts|18}}||
+|-
+|[[Kyushu J7W]]||Japan||||1945||Prototype||{{nts|2}}||
+|-
+|[[Laville DI-4]]||USSR||||1932||Prototype||{{nts|1}}||
+|-
+|[[Lavochkin-Gorbunov-Gudkov LaGG-1]]||USSR||||1940||Production||{{nts|100}}||
+|-
+|[[Lavochkin-Gorbunov-Gudkov LaGG-3]]||USSR||||1940||Production||{{nts|6258}}||
+|-
+|[[Lavochkin La-5]]||USSR||||1942||Production||{{nts|9920}}||
+|-
+|[[Lavochkin La-7]]||USSR||||1944||Production||{{nts|5753}}||
+|-
+|[[Lavochkin La-9]]||USSR||||1946||Production||{{nts|1559}}||
+|-
+|[[Lavochkin La-11]]||USSR||||1947||Production||{{nts|1182}}||
+|-
+|[[Lavochkin La-15]]||USSR||||1948||Production||{{nts|235}}||
+|-
+|[[Lavochkin La-126]]||USSR||||1945||Prototype||{{nts|1}}||
+|-
+|[[Lavochkin La-150]]||USSR||||1946||Prototype||{{nts|8}}||
+|-
+|[[Lavochkin La-152]]||USSR||||1946||Prototype||{{nts|1}}||
+|-
+|[[Lavochkin La-156]]||USSR||||1947||Prototype||{{nts|2}}||
+|-
+|[[Lavochkin La-160]]||USSR||||1947||Prototype||{{nts|1}}||
+|-
+|[[Lavochkin La-168]]||USSR||||1948||Prototype||{{nts|1}}||
+|-
+|[[Lavochkin La-176]]||USSR||||1948||Prototype||{{nts|1}}||
+|-
+|[[Lavochkin La-190]]||USSR||||1951||Prototype||{{nts|1}}||
+|-
+|[[Lavochkin La-200]]||USSR||||1949||Prototype||{{nts|1}}||
+|-
+|[[Lavochkin La-250]]||USSR||||1956||Prototype||{{nts|5}}||
+|-
+|[[Letov Š-3]]||Czechoslovakia||||1922||Prototype||{{nts|2}}||
+|-
+|[[Letov Š-4]]||Czechoslovakia||||1922||Production||{{nts|20}}||
+|-
+|[[Letov Š-7]]||Czechoslovakia||||1923||Prototype||{{nts|1}}||
+|-
+|[[Letov Š-12]]||Czechoslovakia||||1924||Prototype||{{nts|1}}||
+|-
+|[[Letov Š-13]]||Czechoslovakia||||1924||Prototype||{{nts|1}}||
+|-
+|[[Letov Š-14]]||Czechoslovakia||||1924||Prototype||{{nts|1}}||
+|-
+|[[Letov Š-20]]||Czechoslovakia||||1925||Production||{{nts|117}}||
+|-
+|[[Letov Š-22]]||Czechoslovakia||||1926||Prototype||{{nts|1}}||
+|-
+|[[Letov Š-31]]||Czechoslovakia||||1929||Production||{{nts|32}}||
+|-
+|[[Letov Š-231]]||Czechoslovakia||||1933||Production||{{nts|25}}||
+|-
+|[[Levasseur PL.5]]||France||Carrier fighter||1924||Production||{{nts|24}}||
+|-
+|[[Levasseur PL.6]]||France||Two-seat fighter||1926||Prototype||{{nts|1}}||
+|-
+|[[Levy-Biche LB.2|Levy-Biche LB.2 & LB.6]]||France||Shipboard fighter||1927||Production||{{nts|26}}||
+|-
+|[[LFG Roland D.II]]||Germany||||1916||Production||{{nts|300}}||
+|-
+|[[LFG Roland D.III]]||Germany||||1916||Production||{{nts|20}} ca.||
+|-
+|[[LFG Roland D.VI]]||Germany||||1917||Production||{{nts|350}}||
+|-
+|[[Lioré et Olivier LeO 7]]||France||Escort fighter||1922||Production||{{nts|33}}||
+|-
+|[[Liuchow Kwangsi Type 3]]||China||||1937||Prototype||{{nts|1}}||
+|-
+|[[Lloyd 40.15]]||Austria-Hungary||||1918||Prototype||{{nts|1}}||
+|-
+|[[Lloyd 40.16]]||Austria-Hungary||||1918||Prototype||{{nts|1}}||
+|-
+|[[Lockheed YP-24]]||US||||1931||Prototype||{{nts|1}}||
+|-
+|[[Lockheed P-38 Lightning]]||US||||1939||Production||{{nts|10037}}||
+|-
+|[[Lockheed XP-49]]||US||||1942||Prototype||{{nts|1}}||
+|-
+|[[Lockheed XP-58 Chain Lightning]]||US||||1944||Prototype||{{nts|1}}||
+|-
+|[[Lockheed P-80 Shooting Star]]||US||||1944||Production||{{nts|1715}}||
+|-
+|[[Lockheed XF-90]]||US||||1949||Prototype||{{nts|2}}||
+|-
+|[[Lockheed F-94 Starfire|Lockheed F-94/F-97 Starfire]]||US||||1949||Production||{{nts|855}}||
+|-
+|[[Lockheed F-104 Starfighter]]||US||||1954||Production||{{nts|2578}}||<ref group=note>Includes Aeritalia F-104S and Canadiar CF-104</ref>
+|-
+|[[Lockheed YF-12]]||US||||1963||Prototype||{{nts|3}}||
+|-
+|[[Lockheed Martin F-22 Raptor]]||US||||1997||Operational||{{nts|195}}||<ref name=F-22_prog_chrono>[http://www.f22-raptor.com/about/chronology.html "Chronology of the F-22 Program."] {{webarchive|url=https://web.archive.org/web/20080307071916/http://www.f22-raptor.com/about/chronology.html|date=2008-03-07 }} ''F-22 Team web site''. Retrieved: 23 2009.</ref>
+|-
+|[[Lockheed Martin F-35 Lightning II]]||US||||2006||Operational||{{nts|840}}+||{{as of|2022|9|lc=on}}<ref>{{cite web |url=https://www.f35.com/f35/about/fast-facts.html |title=F-35 Lightning II Program Status and Fast Facts |website=F35.com |publisher=[[Lockheed Martin]] |date= September  2022 |access-date= 1 September 2022}}</ref>
+|-
+|[[Lockheed XFV]]||US||VTOL fighter||1953||Prototype||{{nts|1}}||
+|-
+|[[Loening M-8]]||US||||1918||Production||{{nts|55}}||
+|-
+|[[Loening PA-1]]||US||||1922||Prototype||{{nts|1}}||
+|-
+|[[Loening PW-2]]||US||||1918||Production||{{nts|7}}||
+|-
+|[[Lohner 10.20 Spuckerl]]||Austria-Hungary||||1916||Prototype||{{nts|2}}||
+|-
+|[[Lohner Type AA]]||Austria-Hungary||||1917||Prototype||{{nts|1}}||
+|-
+|[[Lohner Type A/Dr.I]]||Austria-Hungary||||1917||Prototype||{{nts|1}}||
+|-
+|[[Loire 43]]||France||||1932||Prototype||{{nts|1}}||
+|-
+|[[Loire 45]]||France||||1933||Prototype||{{nts|1}}||
+|-
+|[[Loire 46]]||France||||1934||Production||{{nts|61}}||
+|-
+|[[Loire 210]]||France||||1935||Production||{{nts|21}}||
+|-
+|[[Loire 250]]||France||||1935||Prototype||{{nts|1}}||
+|-
+|[[Loire-Nieuport 161|Loire-Nieuport LN.160, 161 & SNCAO 161]]||France||||1935||Prototype||{{nts|3}}||
+|-
+|[[Loring C-1]]||Spain||||1927||Prototype||{{nts|1}}||
+|-
+|[[LVG E.I]]||Germany||||1915||Prototype||{{nts|1}}||
+|-
+|[[LVG D 10]]||Germany||||1916||Prototype||{{nts|1}}||
+|-
+|[[LVG D.II]]||Germany||||1916||Prototype||{{nts|1}}||
+|-
+|[[LVG D.III]]||Germany||||1917||Prototype||{{nts|1}}||
+|-
+|[[LVG D.IV]]||Germany||||1918||Prototype||{{nts|1}}||
+|-
+|[[LVG D.V]]||Germany||||1918||Prototype||{{nts|1}}||
+|-
+|[[LVG D.VI]]||Germany||||1918||Prototype||{{nts|1}}||
+|-
+|[[Macchi C.200]]||Italy||||1937||Production||{{nts|1153}}||
+|-
+|[[Macchi C.201]]||Italy||||1940||Prototype||{{nts|2}}||
+|-
+|[[Macchi C.202]]||Italy||||1940||Production||{{nts|1200}}||
+|-
+|[[Macchi C.205]]||Italy||||1942||Production||{{nts|262}}||
+|-
+|[[Macchi M.5]]||Italy||Flying-boat fighter||1917||Production||{{nts|244}}||
+|-
+|[[Macchi M.6]]||Italy||Flying-boat fighter||1917||Prototype||{{nts|1}}||
+|-
+|[[Macchi M.7]]||Italy||Flying-boat fighter||1918||Production||{{nts|110}}+||
+|-
+|[[Macchi M.14]]||Italy||||1918||Production||{{nts|11}}||
+|-
+|[[Macchi M.26]]||Italy||Flying-boat fighter||1924||Prototype||{{nts|2}}||
+|-
+|[[Macchi M.41|Macchi M.41 & M.41bis]]||Italy||Flying-boat fighter||1927||Production||{{nts|42}}||
+|-
+|[[Macchi M.71]]||Italy||Flying-boat fighter||1930||Production||{{nts|12}} ca.||
+|-
+|[[Manfred Weiss WM-23]]||Hungary||||1941||Prototype||{{nts|1}}||
+|-
+|[[Mann Egerton Type H]]||UK||Shipboard fighter||1917||Prototype||{{nts|2}}||
+|-
+|[[Mann & Grimmer M.1]] ''Two-seat fighter''||UK||||1915||Prototype||{{nts|1}}||
+|-
+|[[Marchetti MVT|Marchetti MVT/SIAI S.50]]||Italy||||1919||Prototype||{{nts|3}}||
+|-
+|[[Marinens Flyvebaatfabrikk M.F.9]]||Norway||||1925||Production||{{nts|10}}||
+|-
+|[[Mark D.I]]||Germany||||1918||Prototype||{{nts|2}}||
+|-
+|[[Martin-Baker MB 2]]||UK||||1938||Prototype||{{nts|1}}||
+|-
+|[[Martin-Baker MB 3]]||UK||||1942||Prototype||{{nts|1}}||
+|-
+|[[Martin-Baker MB 5]]||UK||||1944||Prototype||{{nts|1}}||
+|-
+|[[Martinsyde F.1]]||UK||||1917||Prototype||{{nts|2}}||
+|-
+|[[Martinsyde Buzzard]]||UK||||1918||Production||{{nts|370}}+||
+|-
+|[[Martinsyde G.100]]||UK||Fighter-bomber||1916||Production||{{nts|271}}||
+|-
+|[[MÁVAG Héja]]||Hungary||||1940||Production||{{nts|204}}||
+|-
+|[[McDonnell XP-67]]||US||Interceptor||1944||Prototype||{{nts|1}}||
+|-
+|[[McDonnell XF-85 Goblin]]||US||Parasite fighter||1948||Prototype||{{nts|2}}||
+|-
+|[[McDonnell XF-88]]||US||Escort fighter||1948||Prototype||{{nts|2}}||
+|-
+|[[McDonnell F-101 Voodoo]]||US||Fighter-bomber||1954||Production||{{nts|807}}||
+|-
+|[[McDonnell Douglas AV-8B Harrier II Plus]]||US, UK||||1993||Operational||{{nts|133}}||
+|-
+|[[McDonnell Douglas F-15 Eagle]]||style=white-space:nowrap|US||Interceptor||1972||Operational||{{nts|1196}}||
+|-
+|[[McDonnell Douglas F-15E Strike Eagle]]||US||Fighter-bomber||1986||Operational||{{nts|418}}||
+|-
+|[[McDonnell Douglas F/A-18 Hornet]]||US||Carrier fighter-bomber||1978||Operational||{{nts|1480}}||
+|-
+|[[McDonnell FH Phantom]]||US||Carrier fighter||1945||Production||{{nts|62}}||
+|-
+|[[McDonnell F2H Banshee]]||US||Carrier fighter-bomber||1947||Production||{{nts|895}}||
+|-
+|[[McDonnell F3H Demon]]||US||Carrier interceptor||1951||Production||{{nts|519}}||
+|-
+|[[McDonnell Douglas F4H/F-110/F-4 Phantom II]]||US||Carrier fighter-bomber||1958||Operational||{{nts|5195}}||
+|-
+|[[Messerschmitt Bf 109]]||Germany||||1935||Production||{{nts|33984}}||
+|-
+|[[Messerschmitt Bf 110]]||Germany||Heavy fighter||1936||Production||{{nts|6170}}||
+|-
+|[[Messerschmitt Me 163]]||Germany||Interceptor rocket||1941||Production||{{nts|370}}||
+|-
+|[[Messerschmitt Me 209 (1943)]]||Germany||||1943||Prototype||{{nts|4}}||
+|-
+|[[Messerschmitt Me 210]]||Germany||Heavy fighter||1939||Production||{{nts|90}}||
+|-
+|[[Messerschmitt Me 262|Messerschmitt Me 262/Avia S-92]]||Germany||Fighter-bomber jet||1941||Production||{{nts|1430}}||
+|-
+|[[Messerschmitt Me 263]]||Germany||Interceptor rocket||1945||Prototype||{{nts|3}}||
+|-
+|[[Messerschmitt Me 309]]||Germany||||1942||Prototype||{{nts|4}}||
+|-
+|[[Messerschmitt Me 310]]||Germany||Heavy fighter||1943||Prototype||{{nts|1}}||
+|-
+|[[Messerschmitt Me 328]]||Germany||Parasite fighter||1944||Prototype||{{nts|9}}||
+|-
+|[[Messerschmitt Me 410]]||Germany||Heavy fighter||1942||Production||{{nts|1200}} ca.||
+|-
+|[[Mikhelson/Korvin MK-1 Rybka]]||USSR||Floatplane fighter||1923||Prototype||{{nts|1}}||
+|-
+|[[Mikoyan-Gurevich I-210]]||USSR||||1941||Prototype||{{nts|1}}||
+|-
+|[[Mikoyan-Gurevich I-211]]||USSR||||1943||Prototype||{{nts|1|-|10}}||
+|-
+|[[Mikoyan-Gurevich I-220]]||USSR||||1943||Prototype||{{nts|2}}||
+|-
+|[[Mikoyan-Gurevich I-221]]||USSR||||1943||Prototype||{{nts|1}}||
+|-
+|[[Mikoyan-Gurevich I-222]]||USSR||||1944||Prototype||{{nts|1}}||
+|-
+|[[Mikoyan-Gurevich I-224]]||USSR||||1944||Prototype||{{nts|1}}||
+|-
+|[[Mikoyan-Gurevich I-225]]||USSR||||1944||Prototype||{{nts|2}}||
+|-
+|[[Mikoyan-Gurevich I-230]]||USSR||||1942||Prototype||{{nts|7}}||
+|-
+|[[Mikoyan-Gurevich I-231]]||USSR||||1943||Prototype||{{nts|1}}||
+|-
+|[[Mikoyan-Gurevich I-250]]||USSR||Mixed power||1945||Prototype||{{nts|12}}||
+|-
+|[[Mikoyan-Gurevich I-270]]extra
+|[[Mikoyan-Gurevich I-70]]extra
+|[[Mikoyan-Gurevich 270]]||USSR||||1946||Prototype||{{nts|2}}||
+|-
+|[[Mikoyan-Gurevich I-320]]||USSR||||1949||Prototype||{{nts|2}}||
+|-
+|[[Mikoyan-Gurevich I-370|Mikoyan-Gurevich I-370/I-1/I-2]]||USSR||||1955||Prototype||{{nts|1}}||
+|-
+|[[Mikoyan-Gurevich I-3|Mikoyan-Gurevich I-380/I-3]]||USSR||||1956||Prototype||{{nts|2}}||
+|-
+|[[Mikoyan-Gurevich I-75]]||USSR||||1958||Prototype||{{nts|2}}||
+|-
+|[[Mikoyan-Gurevich MiG-1]]||USSR||||1940||Production||{{nts|103}}||
+|-
+|[[Mikoyan-Gurevich MiG-3]]||USSR||||1940||Production||{{nts|3172}}||
+|-
+|[[Mikoyan-Gurevich DIS|Mikoyan-Gurevich MiG-5/DIS]]||USSR||Escort fighter||1941||Prototype||{{nts|2}}||
+|-
+|[[Mikoyan-Gurevich MiG-3|Mikoyan-Gurevich MiG-7]]||USSR||||1941||Prototype||{{nts|1}}||
+|-
+|[[Mikoyan-Gurevich MiG-9]]||USSR||||1946||Production||{{nts|598}}||
+|-
+|[[Mikoyan-Gurevich MiG-15]]||USSR||||1947||Production||{{nts|18000}}||
+|-
+|[[Mikoyan-Gurevich MiG-17]]||USSR||||1950||Production||{{nts|10603}}||
+|-
+|[[Mikoyan-Gurevich MiG-19]]||USSR||||1953||Production||{{nts|2172}}||
+|-
+|[[Mikoyan-Gurevich MiG-21]]||USSR||||1955||Operational||{{nts|11496}}||
+|-
+|[[Mikoyan-Gurevich MiG-21PD]]||USSR||VTOL fighter||1966||Prototype||{{nts|1}}||
+|-
+|[[Mikoyan-Gurevich MiG-23PD]]||USSR||VTOL fighter||1967||Prototype||{{nts|1}}||
+|-
+|[[Mikoyan-Gurevich MiG-23]]||USSR||Fighter-bomber||1967||Operational||{{nts|5047}}||
+|-
+|[[Mikoyan-Gurevich MiG-25]]||USSR||Interceptor||1964||Operational||{{nts|1190}}||
+|-
+|[[Mikoyan MiG-29]]||USSR||||1977||Operational||{{nts|1600}}||<ref group=note>includes [[Mikoyan MiG-29K]], [[Mikoyan MiG-29M]]</ref><ref>[http://www.migavia.ru/eng/military_e/index_mil_e.html "Products:MilitaryPrograms."] {{webarchive|url=https://web.archive.org/web/20101120180632/http://www.migavia.ru/eng/military_e/index_mil_e.html|date=2010-11-20 }}''migavia.ru/eng''.Retrieved:23 2009.</ref>
+|-
+|[[Mikoyan MiG-31]]||USSR||Interceptor||1975||Operational||{{nts|500}}||
+|-
+|[[Mikoyan MiG-35]]||Russia||||2007||Operational||{{nts|10}}||<ref name="AF_Tech_MiG-35">{{cite web|url=http://www.airforce-technology.com/projects/mig35/|title=MiG-35 Fulcrum-F Multirole Fighter - Airforce Technology|access-date=14 November 2014|url-status=live|archive-url=https://web.archive.org/web/20170917195033/http://www.airforce-technology.com/projects/MiG35/|archive-date=17 September 2017}}</ref>
+|-
+|[[Mikoyan-Gurevich SM-12]]||USSR||||1957||Prototype||{{nts|3}}||
+|-
+|[[Mikoyan-Gurevich Ye-150]]extra
+|[[Mikoyan-Gurevich Ye-150]]extra
+|[[Mikoyan-Gurevich Ye-152]]||USSR||||1959||Prototype||{{nts|4}}||
+|-
+|[[Mikoyan-Gurevich Ye-8]]||USSR||||1962||Prototype||{{nts|2}}||
+|-
+|[[Mikoyan Project 1.44]]||Russia||||2000||Prototype||{{nts|2}}||
+|-
+|[[Miles M.20]]||UK||||1940||Prototype||{{nts|2}}||
+|-
+|[[Miles M.35 Libellula]]||UK||||1942||Prototype||{{nts|1}}||
+|-
+|[[Miles Master Fighter]]||UK||||1940||Production||{{nts|26}}||
+|-
+|[[Militär-Apparat MA-7]]||Switzerland||||1925||Prototype||{{nts|1}}||
+|-
+|[[Mitsubishi 1MF]]||Japan||||1921||Production||{{nts|138}}||
+|-
+|[[Mitsubishi 1MF2]]||Japan||||1928||Prototype||{{nts|2}}||
+|-
+|[[Mitsubishi 1MF9]]||Japan||||1927||Prototype||{{nts|2}}||
+|-
+|[[Mitsubishi 1MF10]]||Japan||Carrier fighter||1933||Prototype||{{nts|2}}||<ref name="Japanese Aircraft" />
+|-
+|[[Mitsubishi A5M]]||Japan||||1935||Production||{{nts|1094}}||
+|-
+|[[Mitsubishi A6M Zero]]||Japan||||1939||Production||{{nts|10939}}||
+|-
+|[[Mitsubishi A7M]]||Japan||||1944||Prototype||{{nts|8}}||
+|-
+|[[Mitsubishi X-2 Shinshin]]||Japan||||2016||Prototype||{{nts|1}}||
+|-
+|[[Mitsubishi F-1]]||Japan||||1975||Production||{{nts|77}}||
+|-
+|[[Mitsubishi F-2]]||Japan, US||||1995||Operational||{{nts|98}}||
+|-
+|[[Mitsubishi F-X]]||Japan, US||||2020||Project||{{nts|0}}||
+|-
+|[[Mitsubishi G6M]] ||Japan||Heavy fighter||1940||Production||{{nts|30}}||
+|-
+|[[Mitsubishi J2M]]||Japan||||1942||Production||{{nts|621}}||
+|-
+|[[Mitsubishi J8M|Mitsubishi J8M/Ki-200]]||Japan||||1945||Prototype||{{nts|7}}||
+|-
+|[[Mitsubishi Ka-8]]||Japan||Carrier fighter||1934||Prototype||{{nts|2}}||<ref name="Japanese Aircraft" />
+|-
+|[[Mitsubishi Ki-18]]||Japan||||1935||Prototype||{{nts|1}}||
+|-
+|[[Mitsubishi Ki-33]]||Japan||||1936||Prototype||{{nts|2}}||
+|-
+|[[Mitsubishi Ki-46-III KAI]]||Japan||Heavy fighter (conversion)||1944||Production||{{nts|200}} ca.||
+|-
+|[[Mitsubishi Ki-83]]||Japan||Heavy fighter||1944||Prototype||{{nts|4}}||
+|-
+|[[Mitsubishi Ki-109]]||Japan||Heavy day/night fighter||1942||Production||{{nts|24}}||<ref group=note name="First flight"/>
+|-
+|[[Morane-Saulnier L|Morane-Saulnier L/Pfalz E.III]]||France||||1914||Production||{{nts|600}}||<ref group=note>The Morane-Saulnier L became first fighter when fitted with fixed machine gun</ref>
+|-
+|[[Morane-Saulnier N]]||France||||1915||Production||{{nts|49}}||
+|-
+|[[Morane-Saulnier I]]||France||||1916||Production||{{nts|4}}||
+|-
+|[[Morane-Saulnier V]]||France||||1916||Production||{{nts|30}} ca.||
+|-
+|[[Morane-Saulnier AC]]||France||||1916||Production||{{nts|32}} ca.||
+|-
+|[[Morane-Saulnier AF]]||France||||1917||Prototype||{{nts|1}}||
+|-
+|[[Morane-Saulnier AI]]||France||||1917||Production||{{nts|1210}}||
+|-
+|[[Morane-Saulnier AN series]]||France||||1918||Prototype||{{nts|4}}||
+|-
+|[[Morane-Saulnier M.S.121]]||France||||1927||Prototype||{{nts|1}}||
+|-
+|[[Morane-Saulnier M.S.225]]||France||||1932||Production||{{nts|75}}||
+|-
+|[[Morane-Saulnier M.S.325]]||France||||1933||Prototype||{{nts|1}}||
+|-
+|[[Morane-Saulnier M.S.405]]||France||||1935||Prototype||{{nts|18}}||
+|-
+|[[Morane-Saulnier M.S.406]]||France||||1935||Production||{{nts|1094}} ca.||
+|-
+|[[Morane-Saulnier M.S.410]]||France||||1940||Production||{{nts|74}}||
+|-
+|[[Mosca-Bystritsky MBbis]]||Russia||||1916||Production||{{nts|50}}||
+|-
+|[[Moskalyev SAM-13]]||USSR||||1940||Prototype||{{nts|1}}||
+|-
+|[[Nakajima A2N]]||Japan||||1929||Production||{{nts|100}}||
+|-
+|[[Nakajima A4N]]||Japan||||1934||Production||{{nts|221}}||
+|-
+|[[Nakajima A6M2-N]]||Japan||Floatplane fighter||1941||Production||{{nts|327}}||
+|-
+|[[Nakajima Army Type 91 Fighter]]||Japan||||1928||Production||{{nts|450}}||
+|-
+|[[Nakajima C6N-1S]]||Japan||Night fighter||1943||Prototype||{{nts|6}}||<ref group=note name="First flight" />
+|-
+|[[Nakajima J1N]]||Japan||Night fighter||1941||Production||{{nts|479}}||
+|-
+|[[Nakajima J5N]]||Japan||Interceptor||1944||Prototype||{{nts|6}}||
+|-
+|[[Nakajima Ki-8]]||Japan||||1934||Prototype||{{nts|5}}||
+|-
+|[[Nakajima Ki-11]]||Japan||||1934||Prototype||{{nts|4}}||
+|-
+|[[Nakajima Ki-12 & PE]]||Japan||||1936||Prototype||{{nts|2}}||
+|-
+|[[Nakajima Ki-27]]||Japan||||1936||Production||{{nts|3368}}||
+|-
+|[[Nakajima Ki-43 Hayabusa]]||Japan||||1938||Production||{{nts|5919}}||
+|-
+|[[Nakajima Ki-44 Shoki]]||Japan||||1940||Production||{{nts|1225}}||
+|-
+|[[Nakajima Ki-58]]||Japan||Escort fighter||1939||Prototype||{{nts|3}}||<ref group=note name="First flight">Date of first flight is for original non-fighter variant</ref>
+|-
+|[[Nakajima Ki-84 Hayate]]||Japan||||1943||Production||{{nts|3514}}||
+|-
+|[[Nakajima Ki-87]]||Japan||||1945||Prototype||{{nts|1}}||
+|-
+|[[Nakajima Ki-116]]||Japan||||1945||Prototype||{{nts|1}}||
+|-
+|[[Nakajima Kikka]]||Japan||||1945||Prototype||{{nts|2}}||
+|-
+|[[Nakajima NAF-1]]||Japan||Carrier fighter||1933||Prototype||{{nts|1}}||<ref name="Japanese Aircraft" />
+|-
+|[[Nakajima NAF-2]]||Japan||Carrier fighter||1934||Prototype||{{nts|2}}||<ref name="Japanese Aircraft" />
+|-
+|[[Nanchang J-12]]||China||||1970||Prototype||{{nts|9}}||
+|-
+|[[Nielsen & Winther Type AA]]||Denmark||||1917||Production||{{nts|6}}||
+|-
+|[[Nieuport 10]]||France||||1914||Production||{{nts|300}} ca.||
+|-
+|[[Nieuport 11]]||France||||1915||Production||{{nts|900}} ca.||<ref name="Kowalski, 2003">Kowalski, 2003</ref>
+|-
+|[[Nieuport 16]]||France||||1916||Production||{{nts|300}} ca.||<ref name="Kowalski, 2003"/>
+|-
+|[[Nieuport 17, 21 & 23]]||France||||1916||Production||{{nts|4000}} ca.||
+|-
+|[[Nieuport 17bis|Nieuport 17bis & 23bis]]||France||||1917||Production||{{nts|101}} ca.||
+|-
+|[[Nieuport 24|Nieuport 24 & 24bis]]||France||||1917||Production||{{nts|700}} ca.||
+|-
+|[[Nieuport 27|Nieuport 25 & 27]]||France||||1917||Production||{{nts|1000}} ca.||
+|-
+|[[Nieuport 28]]||France||||1917||Production||{{nts|300}}||
+|-
+|[[Nieuport-Delage NiD 29]]||France||||1918||Production||{{nts|1571}} ca.||
+|-
+|[[Nieuport Nie 31RH]]||France||||1919||Prototype||{{nts|1}}||
+|-
+|[[Nieuport-Delage NiD 32RH]]||France||Shipboard fighter||1919||Production||{{nts|10}}||
+|-
+|[[Nieuport-Delage NiD 37]]||France||High-altitude fighter||1923||Prototype||{{nts|1}}||
+|-
+|[[Nieuport-Delage NiD 40]]||France||High-altitude fighter||1923||Prototype||{{nts|1}}||
+|-
+|[[Nieuport-Delage NiD 42]]||France||||1924||Production||{{nts|31}}||
+|-
+|[[Nieuport-Delage NiD 43]]||France||Floatplane fighter||1924||Prototype||{{nts|1}}||
+|-
+|[[Nieuport-Delage NiD 48, 48bis & 481]]||France||Lightweight Jockey fighter||1926||Prototype||{{nts|2}}||
+|-
+|[[Nieuport-Delage NiD 52]]||France||||1927||Production||{{nts|135}}||
+|-
+|[[Nieuport-Delage NiD 62]]||France||||1928||Production||{{nts|322}}||
+|-
+|[[Nieuport-Delage NiD 622]]||France||||1930||Production||{{nts|314}}||
+|-
+|[[Nieuport-Delage NiD 626]]||France||||1932||Production||{{nts|12}}||
+|-
+|[[Nieuport-Delage NiD 628]]||France||High-altitude fighter||1932||Prototype||{{nts|2}}||
+|-
+|[[Nieuport-Delage NiD 629]]||France||||1932||Production||{{nts|50}}||
+|-
+|[[Nieuport-Delage NiD 72]]||France||||1928||Production||{{nts|8}}||
+|-
+|[[Nieuport-Delage NiD 82]]||France||||1930||Prototype||{{nts|1}}||
+|-
+|[[Nieuport-Delage NiD 120|Nieuport-Delage NiD 120 - NiD 125]]||France||||1932||Production||{{nts|11}}||
+|-
+|[[Nieuport Nighthawk|Nieuport Nighthawk\Gloster Nighthawk]]||UK||||1919||Production||{{nts|70}}||
+|-
+|[[Nikitin-Shevchenko IS]]||USSR||Polymorphic fighter||1940||Prototype||{{nts|2}}||
+|-
+|[[North American NA-50 & P-64]]||US||||1939||Production||{{nts|13}}||
+|-
+|[[North American P-51 Mustang]]||US||||1940||Production||{{nts|16766}}||
+|-
+|[[North American P-82/F-82 Twin Mustang]]||US||||1945||Production||{{nts|270}}||
+|-
+|[[North American/Canadair/CAC F-86 Sabre]]|||US||||1947||Production||{{nts|9860}}||
+|-
+|[[North American FJ-1 Fury]]||US||||1946||Production||{{nts|31}}||
+|-
+|[[North American FJ-2/-3 Fury]]||US||||1951||Production||{{nts|741}}||
+|-
+|[[North American FJ-4 Fury]]||US||||1954||Production||{{nts|374}}||
+|-
+|[[North American YF-93]]||US||||1950||Prototype||{{nts|2}}||
+|-
+|[[North American F-100 Super Sabre]]||US||||1953||Production||{{nts|2294}}||
+|-
+|[[North American F-107]]||US||||1956||Prototype||{{nts|3}}||
+|-
+|[[Northrop XFT]]||US||||1933||Prototype||{{nts|1}}||
+|-
+|[[Northrop XP-56 Black Bullet]]||US||||1943||Prototype||{{nts|2}}||
+|-
+|[[Northrop P-61 Black Widow]]||US||||1942||Production||{{nts|742}}||
+|-
+|[[Northrop XP-79]]||US||||1945||Prototype||{{nts|1}}||
+|-
+|[[Northrop F-89 Scorpion]]||US||||1948||Production||{{nts|1050}}||
+|-
+|[[Northrop F-5]]||US||||1959||Operational||{{nts|2246}}||
+|-
+|[[Northrop YF-17]]||US||||1974||Prototype||{{nts|2}}||
+|-
+|[[Northrop F-20 Tigershark]]||US||||1982||Prototype||{{nts|3}}||
+|-
+|[[Northrop YF-23]]||US||||1990||Prototype||{{nts|2}}||
+|-
+|[[NVI F.K.31]]||Netherlands||||1923||Production||{{nts|17}}||
+|-
+|[[Oeffag D.III]]||Austria-Hungary||||1917||Production||{{nts|526}} ca.||
+|-
+|[[Orenco B]]||US||||1918||Prototype||{{nts|4}}||
+|-
+|[[Orenco D]]||US||||1919||Production||{{nts|54}}||
+|-
+|[[Packard-Le Peré LUSAC-11 & LUSAC-21]]||US||||1918||Production||{{nts|30}}||
+|-
+|[[Panavia Tornado ADV]]||UK||||1979||Production||{{nts|218}}||
+|-
+|[[Parnall Pipit]]||UK||||1928||Prototype||{{nts|2}}||
+|-
+|[[Parnall Plover]]||UK||||1922||Production||{{nts|13}}||
+|-
+|[[Parnall Puffin]]||UK||Amphibious fighter||1920||Prototype||{{nts|3}}||
+|-
+|[[Parnall Scout]]||UK||Zeppelin interceptor||1916||Prototype||{{nts|1}}||
+|-
+|[[Pashinin I-21]]||USSR||||1940||Prototype||{{nts|3}}||
+|-
+|[[Pemberton-Billing P.B.9]]||UK||||1914||Prototype||{{nts|1}}||
+|-
+|[[Pemberton-Billing Nighthawk]]||UK||Zeppelin interceptor||1917||Prototype||{{nts|1}}||
+|-
+|[[Petlyakov Pe-3]]||USSR||Night fighter||1941||Production||{{nts|360}}||
+|-
+|[[Petlyakov VI-100]]||USSR||High-altitude fighter||1939||Prototype||{{nts|1}}||
+|-
+|[[Pfalz D.III]]||Germany||||1917||Production||{{nts|1010}}||
+|-
+|[[Pfalz D.IV]]||Germany||||1916||Prototype||{{nts|1}}||
+|-
+|[[Pfalz D.VI]]||Germany||||1917||Prototype||{{nts|2}}+||
+|-
+|[[Pfalz D.VII]]||Germany||||1917||Production||{{nts|15}}+||
+|-
+|[[Pfalz D.VIII]]||Germany||||1918||Production||{{nts|40}}||
+|-
+|[[Pfalz D.XII]]||Germany||||1918||Production||{{nts|800}}||
+|-
+|[[Pfalz D.XIII]]||Germany||||1918||Prototype||{{nts|1}}+||
+|-
+|[[Pfalz D.XIV]]||Germany||||1918||Prototype||{{nts|3}}+||
+|-
+|[[Pfalz D.XV]]||Germany||||1918||Prototype||{{nts|2}}+||
+|-
+|[[Pfalz Dr.I]]||Germany||||1917||Production||{{nts|10}}||
+|-
+|[[Pfalz Dr.II]]||Germany||||1918||Prototype||{{nts|2}}||
+|-
+|[[Pfalz E.I]]||France, Germany||||1915||Production||{{nts|45}}||
+|-
+|[[Pfalz E.II]]||France, Germany||||1915||Production||{{nts|130}}||
+|-
+|[[Pfalz E.IV]]||France, Germany||||1916||Production||{{nts|46}}||
+|-
+|[[Pfalz E.V]]||France, Germany||||1916||Production||{{nts|20}}||
+|-
+|[[Phönix 20.14]]||Austria-Hungary||||1917||Production||{{nts|158}}||
+|-
+|[[Phönix 20.15]]||Austria-Hungary||||1917||Production||{{nts|158}}||
+|-
+|[[Phönix 20.16]]||Austria-Hungary||Two-seat fighter||1917||Prototype||{{nts|1}}||
+|-
+|[[Phönix 20.22]]||Austria-Hungary||||1917||Prototype||{{nts|1}}||
+|-
+|[[Phönix 20.23]]||Austria-Hungary||||1917||Prototype||{{nts|1}}||
+|-
+|[[Phönix 20.24]]||Austria-Hungary||||1917||Prototype||{{nts|1}}||
+|-
+|[[Phönix 20.25]]||Austria-Hungary||||1917||Prototype||{{nts|1}}||
+|-
+|[[Phönix D.I]]||Austria-Hungary||||1917||Production||{{nts|158}}||
+|-
+|[[Phönix D.II]]||Austria-Hungary||||1917||Production||{{nts|158}}||
+|-
+|[[Phönix D.III]]||Austria-Hungary||||1917||Production||{{nts|158}}||
+|-
+|[[Piaggio P.2]]||Italy||||1923||Prototype||{{nts|2}}||
+|-
+|[[Piaggio P.119]]||Italy||||1942||Prototype||{{nts|1}}||
+|-
+|[[Polikarpov DI-1]]||USSR||Two-seat fighter||1926||Prototype||{{nts|1}}||
+|-
+|[[Polikarpov I-1]]||USSR||||1923||Prototype||{{nts|18}}||
+|-
+|[[Polikarpov I-3]]||USSR||||1928||Production||{{nts|389}}||
+|-
+|[[Polikarpov I-5]]||USSR||||1930||Production||{{nts|803}}||
+|-
+|[[Polikarpov I-6]]||USSR||||1930||Prototype||{{nts|2}}||
+|-
+|[[Polikarpov I-15]]||USSR||||1933||Production||{{nts|671}}||
+|-
+|[[Polikarpov I-15bis]]||USSR||||1937||Production||{{nts|2408}}||
+|-
+|[[Polikarpov I-152]]||USSR||||1938||Prototype||{{nts|3}}||
+|-
+|[[Polikarpov I-153]]||USSR||||1938||Production||{{nts|3437}}||
+|-
+|[[Polikarpov I-16]]||USSR||||1933||Production||{{nts|8644}}||
+|-
+|[[Polikarpov I-17]]||USSR||||1934||Prototype||{{nts|3}}||
+|-
+|[[Polikarpov I-180]]||USSR||||1938||Prototype||{{nts|13}}||
+|-
+|[[Polikarpov I-185]]||USSR||||1941||Prototype||{{nts|4}}||
+|-
+|[[Polikarpov I-190]]||USSR||||1939||Prototype||{{nts|2}}||
+|-
+|[[Polikarpov ITP]]||USSR||||1942||Prototype||{{nts|2}}||
+|-
+|[[Polikarpov TIS]]||USSR||Heavy fighter||1941||Prototype||{{nts|2}}||
+|-
+|[[Pomilio FVL-8]]||Italy||||1919||Prototype||{{nts|6}}||
+|-
+|[[Pomilio Gamma]]||Italy||||1918||Prototype||{{nts|2}}||
+|-
+|[[Pomilio PD]]||Italy||||1917||Production||{{nts|431}}||
+|-
+|[[Ponnier M-1]]||France||||1915||Production||{{nts|20}}||
+|-
+|[[Port Victoria P.V.1]]||UK||Floatplane fighter||1916||Prototype||{{nts|1}}||
+|-
+|[[Port Victoria P.V.2 & P.V.2bis]]||UK||Floatplane fighter||1916||Prototype||{{nts|1}}||
+|-
+|[[Port Victoria P.V.5|Port Victoria P.V.5 & P.V.5A]]||UK||Floatplane fighter||1917||Prototype||{{nts|2}}||
+|-
+|[[Port Victoria P.V.7]]||UK||Lightweight fighter||1917||Prototype||{{nts|1}}||
+|-
+|[[Port Victoria P.V.8]]||UK||Lightweight fighter||1917||Prototype||{{nts|1}}||
+|-
+|[[Port Victoria P.V.9]]||UK||Floatplane fighter||1917||Prototype||{{nts|1}}||
+|-
+|[[Potez XI]]||France||||1922||Prototype||{{nts|1}}||
+|-
+|[[Potez 23]]||France||||1924||Prototype||{{nts|1}}||
+|-
+|[[Potez 26]]||France||||1924||Prototype||{{nts|1}}||
+|-
+|[[Potez 31]]||France||Night fighter||1929||Prototype||{{nts|1}}||
+|-
+|[[Potez 630]]||France||||1936||Production||{{nts|1360}}||<ref group=note name=non-fighter />
+|-
+|[[Prajadhipok (aircraft)|Prajadhipok]]||Siam||||1929||Prototype||{{nts|1}}||<!--country name changed long after this aircraft so Thailand NOT appropriate here-->
+|-
+|[[Praga E-44]]||Czechoslovakia||||1932||Prototype||{{nts|2}}||
+|-
+|[[Praga E-45]]||Czechoslovakia||||1934||Prototype||{{nts|1}}||
+|-
+|[[PWS-1|PWS-1 & 1bis]]||Poland||Two-seat fighter||1927||Prototype||{{nts|1}}||
+|-
+|[[PWS-10]]||Poland||||1930||Production||{{nts|80}}||
+|-
+|[[PZL P.1]]||Poland||||1929||Prototype||{{nts|2}}||
+|-
+|[[PZL P.6]]||Poland||||1930||Prototype||{{nts|1}}||
+|-
+|[[PZL P.7]]||Poland||||1930||Production||{{nts|151}}||
+|-
+|[[PZL P.8]]||Poland||||1931||Prototype||{{nts|2}}||
+|-
+|[[PZL P.11]]||Poland||||1931||Production||{{nts|325}}||
+|-
+|[[PZL P.24]]||Poland||||1933||Production||{{nts|192}} ca.||
+|-
+|[[PZL.38 Wilk]]||Poland||Heavy fighter||1938||Prototype||{{nts|2}}||
+|-
+|[[PZL.50 Jastrząb]]||Poland||||1939||Prototype||{{nts|1}}||
+|-
+|[[Qaher-313]]||Iran||||2017||Project||{{nts|1}}||
+|-
+|[[Reggiane Re.2000]]||Italy||||1939||Production||{{nts|180}}||
+|-
+|[[Reggiane Re.2001]]||Italy||||1940||Production||{{nts|252}}||
+|-
+|[[Reggiane Re.2002]]||Italy||||1940||Production||{{nts|225}}||
+|-
+|[[Reggiane Re.2004]]||Italy||||1942||Prototype||{{nts|1}}||
+|-
+|[[Reggiane Re.2005]]||Italy||||1942||Production||{{nts|48}}||
+|-
+|[[Renard Epervier]]||Belgium||||1928||Prototype||{{nts|2}}||
+|-
+|[[Renard R.36, R.37 & R.38]]||Belgium||||1937||Prototype||{{nts|3}}||
+|-
+|[[R.E.P. C.1]]||France||||1918||Prototype||{{nts|1}}||
+|-
+|[[Republic P-43 Lancer]]||US||||1940||Production||{{nts|272}}||
+|-
+|[[Republic P-47 Thunderbolt]]||US||||1941||Production||{{nts|15686}}||
+|-
+|[[Republic XP-72]]||US||||1944||Prototype||{{nts|2}}||
+|-
+|[[Republic F-84 Thunderjet]]||US||||1946||Production||{{nts|7524}}||
+|-
+|[[Republic XF-96/F-84F Thunderstreak]]||US||||1950||Production||{{nts|3428}}||
+|-
+|[[Republic XF-91 Thunderceptor]]||US||||1949||Prototype||{{nts|2}}||
+|-
+|[[Republic F-105 Thunderchief]]||US||||1955||Production||{{nts|833}}||
+|-
+|[[Rex D (1917)]]|||Germany||||1917||Prototype||{{nts|1}}||
+|-
+|[[Rikugun Ki-93]]||Japan||Heavy fighter||1945||Prototype||{{nts|2}}||
+|-
+|[[Rockwell XFV-12]]||US||||1977||Prototype||{{nts|1}}||<ref group=note>Unsuccessful tethered trials in 1978</ref>
+|-
+|[[Rogožarski IK-3]]||Yugoslavia||||1938||Production||{{nts|12}}||
+|-
+|[[Romano R-110]]||France||Heavy fighter||1938||Prototype||{{nts|1}}||
+|-
+|[[Roussel R.30]]||France||||1939||Prototype||{{nts|1}}||
+|-
+|[[Royal Aircraft Factory B.E.2]]||UK||Night fighter||1915||Production||{{nts|3500}}||
+|-
+|[[Royal Aircraft Factory B.E.12]]||UK||Zeppelin interceptor||1915||Production||{{nts|601}}||
+|-
+|[[Royal Aircraft Factory F.E.2]]||UK||||1914||Production||{{nts|1939}}||
+|-
+|[[Royal Aircraft Factory F.E.8]]||UK||||1915||Production||{{nts|295}}||
+|-
+|[[Royal Aircraft Factory N.E.1]] ''night fighter''||UK||||1917||Prototype||{{nts|6}}||
+|-
+|[[Royal Aircraft Factory S.E.2]]||UK||||1913||Prototype||{{nts|1}}||<!--used operationally-->
+|-
+|[[Royal Aircraft Factory S.E.4]]||UK||||1914||Prototype||{{nts|1}}||
+|-
+|[[Royal Aircraft Factory S.E.4a]]||UK||||1915||Prototype||{{nts|4}}||<!--unrelated to SE4 hence 2nd entry--><!--used operationally-->
+|-
+|[[Royal Aircraft Factory S.E.5 & 5a]]||UK||||1916||Production||{{nts|5205}}||
+|-
+|[[Rumpler 6B]] '' ''||Germany||Floatplane fighter||1916||Production||{{nts|88}}||
+|-
+|[[Rumpler D.I]]||Germany||||1917||Prototype||{{nts|6}}+||
+|-
+|[[Ryan FR Fireball]]||US||Carrier mixe-propulsion fighter||1944||Production||{{nts|66}}||
+|-
+|[[Ryan XF2R Dark Shark]]||US||Carrier mixe-propulsion fighter||1946||Prototype||{{nts|1}}||
+|-
+|[[Saab 21]]||Sweden||Fighter-bomber ||1943||Production||{{nts|298}}||
+|-
+|[[Saab 21R]]||Sweden||Fighter-bomber jet||1947||Production||{{nts|64}}||
+|-
+|[[Saab 29 Tunnan]]||Sweden||||1948||Production||{{nts|661}}||
+|-
+|[[Saab 32 Lansen]]||Sweden||||1952||Production||{{nts|450}}||
+|-
+|[[Saab 35 Draken]]||Sweden||||1955||Production||{{nts|644}}||
+|-
+|[[Saab 37 Viggen]]||Sweden||||1967||Production||{{nts|329}}||
+|-
+|[[Saab JAS 39 Gripen]]||Sweden||||1988||Operational||{{nts|271}}+||
+|-
+|[[Salmson-Béchereau SB-5]]||France||||1925||Prototype||{{nts|1}}||
+|-
+|[[Saunders A.10]]||UK||||1929||Prototype||{{nts|3}}||
+|-
+|[[Saunders-Roe SR.A/1]]||UK||Flying-boat jet fighter||1947||Prototype||{{nts|3}}||
+|-
+|[[Saunders-Roe SR.53]]||UK||Interceptor with mixed propulsion||1957||Prototype||{{nts|2}}||
+|-
+|[[Savoia-Marchetti SM.88]]||Italy||Heavy fighter||1939||Prototype||{{nts|1}}||
+|-
+|[[Savoia-Marchetti SM.91]]||Italy||Fighter-bomber ||1943||Prototype||{{nts|2}}||
+|-
+|[[Savoia-Marchetti SM.92]]||Italy||Fighter-bomber||1943||Prototype||{{nts|1}}||
+|-
+|[[Schütte-Lanz D.I]]||Germany||||1915||Prototype||{{nts|1}}||
+|-
+|[[Schütte-Lanz D.II]]||Germany||||1915||Prototype||{{nts|1}}||
+|-
+|[[Schütte-Lanz D.III]]||Germany||||1918||Prototype||{{nts|1}}||
+|-
+|[[Schütte-Lanz D.IV]]||Germany||||1918||Prototype||{{nts|1}}||
+|-
+|[[SEA IV]]||France||||1918||Production||{{nts|117}}||
+|-
+|[[SET XV]]||Romania||||1934||Prototype||{{nts|1}}||
+|-
+|[[Seversky AP-9]]||US||||1939||Prototype||{{nts|1}}||
+|-
+|[[Seversky P-35]]||US||||1935||Production||{{nts|136}}||
+|-
+|[[Seversky XP-41]]||US||||1939||Prototype||{{nts|1}}||
+|-
+|[[Shchetinin (Grigorovich) M-11 & M-12]]||Russia||Flying-boat fighter||1916||Production||{{nts|61}}||
+|-
+|[[Shenyang J-5]]||China||||1956||Production||{{nts|1952}}||
+|-
+|[[Shenyang J-6]]||China||||1958||Production||{{nts|5202}}||
+|-
+|[[Shenyang J-8 & J-8II]]||China||||1969||Operational||{{nts|390}}||
+|-
+|[[Shenyang J-11]]||China||||1998||Operational||{{nts|440}}||
+|-
+|[[Shenyang J-15]]||China||||2009||Operational||{{nts|50}}||
+|-
+|[[Shenyang J-16]]||China||||2011||Operational||{{nts|150}}+||
+|-
+|[[Shenyang FC-31]]||China||||2012||Prototype||{{nts|2}}+||
+|-
+|[[Short Gurnard]]||UK||Shipboard fighter||1929||Prototype||{{nts|2}}||
+|-
+|[[SIAI S.52]]||Italy||||1924||Production||{{nts|2}}||
+|-
+|[[SIAI S.58]]||Italy||Flying-boat fighter||1924||Production||{{nts|5}}||
+|-
+|[[SIAI S.67]]||Italy||Flying-boat fighter||1930||Production||{{nts|3}}||
+|-
+|[[Siemens-Schuckert D.I]]||Germany||||1916||Production||{{nts|95}}||
+|-
+|[[Siemens-Schuckert D.II]]||Germany||||1917||Prototype||{{nts|3}}||
+|-
+|[[Siemens-Schuckert D.III]]||Germany||||1917||Production||{{nts|80}}||
+|-
+|[[Siemens-Schuckert D.IV]]||Germany||||1918||Production||{{nts|123}}||
+|-
+|[[Siemens-Schuckert D.V]]||Germany||||1918||Prototype||{{nts|1}}||
+|-
+|[[Siemens-Schuckert D.VI]]||Germany||||1918||Prototype||{{nts|2}}||
+|-
+|[[Siemens-Schuckert DDr.I]]||Germany||Twin-engine fighter||1917||Prototype||{{nts|1}}||
+|-
+|[[Siemens-Schuckert E.I, E.II & E.III]]||Germany||||1915||Production||{{nts|28}}||
+|-
+|[[Sikorsky S-16]]||Russia||||1915||Production||{{nts|30}} ca.||
+|-
+|[[Sikorsky S-18]]||Russia||Escort fighter||1917||Prototype||{{nts|1}}||
+|-
+|[[Sikorsky S-20]]||Russia||||1916||Production||{{nts|5}}||
+|-
+|[[SNCAC (Centre) NC.1080]]||France||Carrier fighter||1949||Prototype||{{nts|1}}||
+|-
+|[[SNCAN (Nord) N.2200]]||France||Carrier fighter||1949||Prototype||{{nts|1}}||
+|-
+|[[SNCAO (Ouest) CAO.200]]||France||||1939||Prototype||{{nts|1}}||
+|-
+|[[SNCASO (Sud Aviation) Vautour II]]||France||Interceptor||1952||Production||{{nts|71}}||
+|-
+|[[SNCASE Baroudeur]] ||France||Lightweight fighter||1953||Prototype||{{nts|2}}||
+|-
+|[[SNCASE (Sud-Est) Aquilon]]||UK, France||Carrier fighter||1951||Production||{{nts|101}}||
+|-
+|[[SNCASE (Sud-Est) SE.100]]||France||Heavy fighter||1939||Prototype||{{nts|1}}||
+|-
+|[[SNCASE (Sud-Est) Durandal]]||France||Interceptor||1956||Prototype||{{nts|2}}||
+|-
+|[[SNCASO (Sud-Ouest) Espadon]]||France||Interceptor||1948||Prototype||{{nts|1}}||
+|-
+|[[SNCASO (Sud-Ouest) Trident]]||France||Interceptor||1953||Prototype||{{nts|12}}||
+|-
+|[[Sopwith Baby]]||UK||Floatplane fighter||1915||Production||{{nts|286}}||
+|-
+|[[Sopwith Bulldog]]||UK||Two-seat fighter||1918||Prototype||{{nts|2}}||
+|-
+|[[Sopwith Buffalo]]||UK||Fighter-reconnaissance||1918||Prototype||{{nts|2}}||
+|-
+|[[Sopwith Camel]]||UK||||1916||Production||{{nts|5490}}||
+|-
+|[[Sopwith Dolphin]]||UK||||1917||Production||{{nts|2072}}||
+|-
+|[[Sopwith Dragon]]||UK||||1918||Prototype||{{nts|200}} ca.||
+|-
+|[[Sopwith Gunbus]]||UK||||1914||Production||{{nts|23}}||
+|-
+|[[Sopwith 3F.2 Hippo]]||UK||Two-seat fighter||1917||Prototype||{{nts|2}}||
+|-
+|[[Sopwith Hispano-Suiza Triplane]]||UK||||1916||Prototype||{{nts|2}}||
+|-
+|[[Sopwith 1½ Strutter]]||UK||Two-seat fighter||1915||Production||{{nts|5939}}||
+|-
+|[[Sopwith L.R.T.Tr.]]||UK||Escort fighter||1916||Prototype||{{nts|1}}||
+|-
+|[[Sopwith Pup]]||UK||||1916||Production||{{nts|1770}}||
+|-
+|[[Sopwith Schneider]]||UK||||1914||Production||{{nts|136}} ca.||
+|-
+|[[Sopwith Snail]]||UK||||1918||Prototype||{{nts|2}}||
+|-
+|[[Sopwith Snapper]]||UK||||1919||Prototype||{{nts|3}}||
+|-
+|[[Sopwith Snark]]||UK||||1919||Prototype||{{nts|3}}||
+|-
+|[[Sopwith Snipe]]||UK||||1917||Production||{{nts|2097}}||
+|-
+|[[Sopwith Swallow]]||UK||||1918||Prototype||{{nts|1}}||
+|-
+|[[Sopwith Triplane]]||UK||||1916||Production||{{nts|147}}||
+|-
+|[[SPAD S.A|SPAD S.A-1, 2, 3, 4 & SG]]||France||Two-seat fighter||1915||Production||{{nts|99}}||
+|-
+|[[SPAD S.VII]]||France||||1916||Production||{{nts|6000}}+||
+|-
+|[[SPAD S.XI Cn2]] ||France||Night fighter||1917||Prototype||{{nts|1}}||<ref>Davilla, 1997, pp.494-497</ref>
+|-
+|[[SPAD S.XII]]||France||Cannon fighter||1917||Production||{{nts|20}}||<ref group=note>as many as 300 SPAD 12 airframes built but not completed</ref>
+|-
+|[[SPAD S.XIII]]||France||||1917||Production||{{nts|8472}}||
+|-
+|[[SPAD S.XIV]]||France||Floatplane fighter||1917||Production||{{nts|40}}||
+|-
+|[[SPAD S.XV]]||France||||1917||Prototype||{{nts|5}}||<ref>Davilla, 1997, p.514-515</ref>
+|-
+|[[SPAD S.XVII]]||France||||1918||Production||{{nts|20}}||<ref>Davilla, 1997, p.521</ref>
+|-
+|[[SPAD S.XX]]||France||||1918||Production||{{nts|100}}||
+|-
+|[[SPAD S.XXI]]||France||||1918||Prototype||{{nts|2}}||<ref name="Davilla 526">Davilla, 1997, p.526</ref>
+|-
+|[[SPAD S.XXII]]||France||||1919||Prototype||{{nts|1}}||<ref name="Davilla 526"/>
+|-
+|[[SPAD S.XXIV]]||France||Shipboard fighter||1918||Prototype||{{nts|1}}||<ref>Davilla, 1997, p.528</ref>
+|-
+|[[Spijker V.3|Spijker/Spijker-Trompenburg V.3]]||Netherlands||||1918||Prototype||{{nts|1}}||
+|-
+|[[Standard E-1]]||US||||1917||Production||{{nts|168}}||
+|-
+|[[Sturtevant B]]||US||Speed scout/pursuit||1916||Prototype||{{nts|1}}||
+|-
+|[[Sukhoi Su-1 & Su-3]]||USSR||High-altitude fighter||1940||Prototype||{{nts|2}}||
+|-
+|[[Sukhoi Su-5]]||USSR||Mixed power||1945||Prototype||{{nts|1}}||
+|-
+|[[Sukhoi Su-7 (1944)]]||USSR||||1944||Prototype||{{nts|1}}||
+|-
+|[[Sukhoi Su-9 (1946)]]||USSR||||1946||Prototype||{{nts|1}}||
+|-
+|[[Sukhoi Su-11 (1947)]]||USSR||||1947||Prototype||{{nts|1}}||
+|-
+|[[Sukhoi Su-15 (1949)]]||USSR||Interceptor||1949||Prototype||{{nts|1}}||
+|-
+|[[Sukhoi Su-7]]||USSR||fighter-bomber||1955||Production||{{nts|1847}}||
+|-
+|[[Sukhoi Su-9]]||USSR||Interceptor||1957||Production||{{nts|1100}}||
+|-
+|[[Sukhoi Su-11]]||USSR||Interceptor||1958||Production||{{nts|108}}||
+|-
+|[[Sukhoi Su-15]]||USSR||Interceptor||1962||Production||{{nts|1290}}||
+|-
+|[[Sukhoi Su-17, 20 & 22]]||USSR||Fighter-bomber||1966||Operational||{{nts|2867}}||
+|-
+|[[Sukhoi Su-27]]||USSR||||1977||Operational||{{nts|680}}||
+|-
+|[[Sukhoi Su-30]]||Russia||||1989||Operational||{{nts|630}}+||
+|-
+|[[Sukhoi Su-32/Su-34]]||Russia||||1990||Operational||{{nts|15}}||
+|-
+|[[Sukhoi Su-33]]||Russia||||1987||Operational||{{nts|24}}||
+|-
+|[[Sukhoi Su-27M/Su-35]]||Russia||||1988||Operational||{{nts|18}}||
+|-
+|[[Sukhoi Su-37]]||Russia||||1996||Prototype||{{nts|2}}||
+|-
+|[[Sukhoi Su-47]]||Russia||||1997||Prototype||{{nts|1}}||
+|-
+|[[Sukhoi Su-57]]/[[HAL FGFA]]||Russia, India||||2010||Operational||{{nts|3}}||
+|-
+|[[Sukhoi Su-30MKI]]||India, Russia||||2000||Operational||{{nts|272}}||
+|-
+|[[Sukhoi T-3]]||USSR||Interceptor||1956||Prototype||{{nts|3}}||
+|-
+|[[Sukhoi P-1]]||USSR||Interceptor||1957||Prototype||{{nts|1}}||
+|-
+|[[Supermarine 224 F.7/30]]||UK||||1934||Prototype||{{nts|1}}||
+|-
+|[[Supermarine 508]]||UK||||1951||Prototype||{{nts|2}}||
+|-
+|[[Supermarine 510]]||UK||||1948||Prototype||{{nts|1}}||
+|-
+|[[Supermarine 525]]||UK||||1954||Prototype||{{nts|1}}||
+|-
+|[[Supermarine 528]]||UK||||1950||Prototype||{{nts|1}}||
+|-
+|[[Supermarine 529]]||UK||||1952||Prototype||{{nts|1}}||
+|-
+|[[Supermarine 535]]||UK||||1950||Prototype||{{nts|1}}||
+|-
+|[[Supermarine Attacker]]||UK||Carrier jet fighter||1946||Production||{{nts|185}}||
+|-
+|[[Supermarine Scimitar]]||UK||Carrier strike fighter||1956||Production||{{nts|76}}||
+|-
+|[[Supermarine Seafang]]||UK||Carrier fighter||1946||Prototype||{{nts|18}}||
+|-
+|[[Supermarine Seafire]]||UK||Carrier fighter||1941||Production||{{nts|2334}}||
+|-
+|[[Supermarine Sea King]]||UK||Flying-boat fighter||1920||Prototype||{{nts|2}}||
+|-
+|[[Supermarine Spitfire]]||UK||||1936||Production||{{nts|20351}}||
+|-
+|[[Supermarine Spiteful]]||UK||||1944||Prototype||{{nts|19}}||
+|-
+|[[Supermarine Swift]]||UK||||1948||Production||{{nts|197}}||
+|-
+|[[Svenska Aero Jaktfalken I & II]]||Sweden||||1929||Production||{{nts|19}}||
+|-
+|[[Tachikawa Ki-106]]||Japan||||1945||Prototype||{{nts|3}}||
+|-
+|[[TAI Hürjet]]||Turkey||Light combat||2017||Project||{{nts|0}}||<ref>https://www.tusas.com/en/products/new-projects/original-development/hurjet HÜRJET ADVANCED JET TRAINER AND LIGHT ATTACK AIRCRAFT</ref>
+|-
+|[[TAI TF-X]]||Turkey||||2019||Project||{{nts|0}}||
+|-
+|[[Tairov Ta-1]]||USSR||Escort fighter||1939||Prototype||{{nts|2}}||
+|-
+|[[Tairov Ta-3]]||USSR||Escort fighter||1939||Prototype||{{nts|4}}||
+|-
+|[[Tebaldi-Zari]]||Italy||||1919||Prototype||{{nts|1}}||
+|-
+|[[Tereshchenko No 7]]||Russia||||1916||Prototype||{{nts|1}}||
+|-
+|[[Thomas-Morse MB-1]]||US||||1918||Prototype||{{nts|2}}||
+|-
+|[[Thomas-Morse MB-2]]||US||||1918||Prototype||{{nts|2}}||
+|-
+|[[Thomas-Morse MB-3]]||US||||1919||Production||{{nts|260}}||
+|-
+|[[Thomas-Morse MB-9]]||US||||1922||Prototype||{{nts|1}}||
+|-
+|[[Thomas-Morse XP-13]]||US||||1929||Prototype||{{nts|1}}||
+|-
+|[[Thomas Morse TM-23]]||US||||1924||Prototype||{{nts|1}}||
+|-
+|[[Thulin K]]||Sweden||||1917||Production||{{nts|19}}||
+|-
+|[[TNCA Series C Microplano]]||Mexico||||1918||Prototype||{{nts|1}}||
+|-
+|[[TNCA Serie E|TNCA Series E Tololoche]]||Mexico||||1924||Production||{{nts|4}}||
+|-
+|[[Tokorozawa Koshiki-2]]||Japan||||1922||Prototype||{{nts|2}}||<ref name="Japanese Aircraft" />
+|-
+|[[Tomasevic I-110]]||USSR||Heavy fighter||1942||Prototype||{{nts|1}}||
+|-
+|[[Tupolev ANT-5/I-4]]||USSR||||1927||Production||{{nts|369}}||
+|-
+|[[Tupolev ANT-13/I-8]]||USSR||||1930||Prototype||{{nts|1}}||
+|-
+|[[Tupolev ANT-21]]||USSR||||1933||Prototype||{{nts|2}}||
+|-
+|[[Tupolev ANT-23/I-12]]||USSR||||1931||Prototype||{{nts|1}}||
+|-
+|[[Tupolev ANT-29]]||USSR||Cannon fighter||1935||Prototype||{{nts|1}}||
+|-
+|[[Tupolev ANT-31/I-14]]||USSR||||1933||Production||{{nts|20}}||
+|-
+|[[Tupolev ANT-46/DI-8]]||USSR||Heavy cannon fighter||1935||Prototype||{{nts|1}}||
+|-
+|[[Tupolev Tu-1]]||USSR||Night fighter||1947||Prototype||{{nts|1}}||
+|-
+|[[Tupolev Tu-28/Tu-128]]||USSR||Interceptor||1961||Production||{{nts|188}}||
+|-
+|[[VEF I-16]]||Latvia||||1940||Prototype||{{nts|10}}||
+|-
+|[[VFW VAK 191B]]||West Germany||VTOL fighter||1971||Prototype||{{nts|3}}||
+|-
+|[[VL Humu]]||Finland||||1944||Prototype||{{nts|1}}||
+|-
+|[[VL Mörkö-Morane]]||Finland||||1943||Production||{{nts|41}}||
+|-
+|[[VL Myrsky]]||Finland||||1941||Production||{{nts|51}}||
+|-
+|[[VL Pyörremyrsky]]||Finland||||1945||Prototype||{{nts|1}}||
+|-
+|[[Vickers E.F.B.1]]||UK||||1913||Prototype||{{nts|1}}||
+|-
+|[[Vickers E.F.B.2]]||UK||||1913||Prototype||{{nts|1}}||
+|-
+|[[Vickers E.F.B.3]]||UK||||1913||Prototype||{{nts|1}}||
+|-
+|[[Vickers F.B.5]]||UK||||1914||Production||{{nts|224}}||
+|-
+|[[Vickers E.F.B.7]]||UK||Twin-engine fighter||1915||Prototype||{{nts|1}}||
+|-
+|[[Vickers E.F.B.8]]||UK||Twin-engine fighter||1915||Prototype||{{nts|1}}||
+|-
+|[[Vickers F.B.9]]||UK||||1915||Production||{{nts|119}}||
+|-
+|[[Vickers F.B.11]]||UK||Escort fighter||1916||Prototype||{{nts|1}}||
+|-
+|[[Vickers F.B.12]]||UK||||1916||Production||{{nts|20}}||
+|-
+|[[Vickers F.B.16]]||UK||||1916||Prototype||{{nts|3}}||
+|-
+|[[Vickers F.B.19]]||UK||||1916||Production||{{nts|62}}||
+|-
+|[[Vickers F.B.24]]||UK||Two-seat fighter||1917||Prototype||{{nts|3}}||
+|-
+|[[Vickers F.B.25]]||UK||Night fighter||1917||Prototype||{{nts|1}}||
+|-
+|[[Vickers E.S.1]]||UK||||1915||Prototype||{{nts|3}}||
+|-
+|[[Vickers Jockey]]||UK||||1930||Prototype||{{nts|1}}||
+|-
+|[[Vickers Type 123 & 141]]||UK||||1926||Prototype||{{nts|1}}||
+|-
+|[[Vickers Type 143 Bolivian Scout]]||UK||||1929||Production||{{nts|6}}||
+|-
+|[[Vickers Type 161]]||UK||Interceptor||1931||Prototype||{{nts|1}}||
+|-
+|[[Vickers Type 177]]||UK||Carrier fighter||1929||Prototype||{{nts|1}}||
+|-
+|[[Vickers Type 432]]||UK||High altitude interceptor||1942||Prototype||{{nts|1}}||
+|-
+|[[Vickers Vampire]]||UK||||1917||Prototype||{{nts|4}}||
+|-
+|[[Vickers Venom]]||UK||||1936||Prototype||{{nts|1}}||
+|-
+|[[Vickers Vireo]]||UK||||1928||Prototype||{{nts|1}}||
+|-
+|[[Villiers II]]||France||Carrier fighter||1925||Production||{{nts|32}}||
+|-
+|[[Villiers V]]||France||Night fighter||1926||Prototype||{{nts|1}}||
+|-
+|[[Villiers VIII]]||France||Carrier fighter||1926||Prototype||{{nts|1}}||
+|-
+|[[Villiers XXIV]]||France||Night fighter||1926||Prototype||{{nts|1}}||
+|-
+|[[Vought VE-7S & VE-7SF]]||US||Shipboard fighter||1917||Production||{{nts|12}}||
+|-
+|[[Vought VE-8]]||US||||1918||Prototype||{{nts|2}}||
+|-
+|[[Vought VE-9]]||US||||1922||Production||{{nts|41}}||
+|-
+|[[Vought V-80]]||US||||1933||Production||{{nts|5}}||<!--fighter converted from O2U-->
+|-
+|[[Vought V-141/V-143]]||US||||1936||Prototype||{{nts|1}}||
+|-
+|[[Vought FU]]||US||||1926||Production||{{nts|20}}||
+|-
+|[[Vought XF2U]]||US||Two-seat fighter||1929||Prototype||{{nts|1}}||
+|-
+|[[Vought XF3U]]||US||Two-seat fighter||1933||Prototype||{{nts|1}}||
+|-
+|[[Vought F4U/FG/F3A Corsair]]||US||fighter-bomber||1940||Production||{{nts|12571}}||
+|-
+|[[Vought XF5U]]||US||||1947||Prototype||{{nts|2}}||<ref group=note>Hopped off ground during taxi run, did not achieve sustained flight.</ref>
+|-
+|[[Vought F6U Pirate]]||US||Carrier fighter||1946||Prototype||{{nts|33}}||
+|-
+|[[Vought F7U Cutlass]]||US||Carrier fighter||1948||Production||{{nts|320}}||
+|-
+|[[Vought F8U/F-8 Crusader]]||US||Carrier fighter||1955||Production||{{nts|1261}}||
+|-
+|[[Vought XF8U-3 Crusader III]]||US||||1958||Prototype||{{nts|5}}||
+|-
+|[[Vultee XP-54]]||US||||1943||Prototype||{{nts|2}}||
+|-
+|[[Vultee P-66 Vanguard]]||US||||1939||Production||{{nts|146}}||
+|-
+|[[Waco CSO-A/240A]]||US||||1927||Production||{{nts|11}}||
+|-
+|[[Waco CTO-A]]||US||||1927||Prototype||{{nts|1}}||
+|-
+|[[Westland C.O.W. Gun Fighter]]||UK||Cannon fighter||1930||Prototype||{{nts|1}}||
+|-
+|[[Westland F.7/30]]||UK||Day & night fighter||1934||Prototype||{{nts|1}}||
+|-
+|[[Westland Interceptor]]||UK||Interceptor||1929||Prototype||{{nts|1}}||
+|-
+|[[Westland N.1B]]||UK||Floatplane fighter||1917||Prototype||{{nts|2}}||
+|-
+|[[Westland Wagtail]]||UK||||1918||Prototype||{{nts|5}}||
+|-
+|[[Westland Weasel]]||UK||Fighter-reconnaissance||1918||Prototype||{{nts|4}}||
+|-
+|[[Westland Welkin]]||UK||High-altitude interceptor||1942||Production||{{nts|75}}||
+|-
+|[[Westland Westbury]]||UK||Heavy fighter||1926||Prototype||{{nts|2}}||
+|-
+|[[Westland Whirlwind (fighter)|Westland Whirlwind]]||UK||Heavy fighter||1938||Production||{{nts|116}}||
+|-
+|[[Westland Wizard]]||UK||||1927||Prototype||{{nts|1}}||
+|-
+|[[Westland Wyvern]]||UK||Torpedo/strike fighter||1946||Production||{{nts|127}}||
+|-
+|[[Weymann W-1]]||France||||1915||Prototype||{{nts|1}}||
+|-
+|[[Wibault 1]]||France||||1918||Prototype||{{nts|1}}||
+|-
+|[[Wibault 3]]||France||||1923||Prototype||{{nts|1}}||
+|-
+|[[Wibault 7|Wibault 7 & Vickers Wibault]]||France||||1924||Production||{{nts|168}}||
+|-
+|[[Wibault 8 Simoun]]||France||||1926||Prototype||{{nts|1}}||
+|-
+|[[Wibault 9]]||France||||1926||Prototype||{{nts|1}}||
+|-
+|[[Wibault 12, 121 & 122 Sirocco]]||France||||1926||Prototype||{{nts|3}}||
+|-
+|[[Wibault 130|Wibault 130 Trombe & 170 Tornade]]||France||Lightweight fighter||1928||Prototype||{{nts|3}}||
+|-
+|[[Wibault 210]]||France||||1929||Prototype||{{nts|1}}||
+|-
+|[[Wibault 313]]||France||||1932||Prototype||{{nts|1}}||
+|-
+|[[Wight Baby]]||UK||Floatplane fighter||1916||Prototype||{{nts|3}}||
+|-
+|[[Wight Quadruplane]]||UK||||1916||Prototype||{{nts|1}}||
+|-
+|[[WKF D.I]]||Austria-Hungary||||1918||Prototype||{{nts|2}}||
+|-
+|[[WKF Dr.I]]||Austria-Hungary||||1918||Prototype||{{nts|1}}||
+|-
+|[[Wright XF3W]]||US||||1926||Prototype||{{nts|1}}||
+|-
+|[[Xian JH-7]]||China||||1988||Operational||{{nts|192}}||
+|-
+|[[Yakovlev I-29]]||USSR||||1939||Prototype||{{nts|1}}||
+|-
+|[[Yakovlev Yak-1]]||USSR||||1940||Production||{{nts|8700}}||
+|-
+|[[Yakovlev I-30/Yak-3]]||USSR||||1941||Production||{{nts|4848}}||
+|-
+|[[Yakovlev Yak-7]]||USSR||||1940||Production||{{nts|6399}}||
+|-
+|[[Yakovlev Yak-9]]||USSR||||1942||Production||{{nts|16769}}||
+|-
+|[[Yakovlev Yak-15]]||USSR||||1946||Production||{{nts|280}}||
+|-
+|[[Yakovlev Yak-17]]||USSR||||1947||Production||{{nts|430}}||
+|-
+|[[Yakovlev Yak-19]]||USSR||||1947||Prototype||{{nts|2}}||
+|-
+|[[Yakovlev Yak-23]]||USSR||||1947||Production||{{nts|310}}||
+|-
+|[[Yakovlev Yak-25 (1947)]]||USSR||||1947||Prototype||{{nts|1}}||
+|-
+|[[Yakovlev Yak-25]]||USSR||Interceptor||1952||Production||{{nts|638}}||
+|-
+|[[Yakovlev Yak-27V/K]]||USSR||Interceptor||1956||Prototype||{{nts|3}}+||
+|-
+|[[Yakovlev Yak-28P]]||USSR||Interceptor||1960||Production||{{nts|435}}||
+|-
+|[[Yakovlev Yak-30 (1948)]]||USSR||||1948||Prototype||{{nts|2}}||
+|-
+|[[Yakovlev Yak-36]]||USSR||VTOL fighter||1963||Prototype||{{nts|12}}||
+|-
+|[[Yakovlev Yak-38]]||USSR||Carrier VTOL fighter||1971||Production||{{nts|231}}||
+|-
+|[[Yakovlev Yak-41/141]]||USSR||||1987||Prototype||{{nts|2}}||
+|-
+|[[Yakovlev Yak-50 (1949)]]||USSR||||1949||Prototype||{{nts|3}}||
+|-
+|[[Yatsenko I-28]]||USSR||||1939||Prototype||{{nts|7}}||
+|-
+|[[Yokosuka D4Y2-S]]||Japan||Night fighter||1940||Production||{{nts|16}}+||<ref group=note name="First flight" />
+|-
+|[[Yokosuka P1Y2 Kyokko]]||Japan||Night fighter||1943||Production||{{nts|96}}||
+|-
+|[[Zeppelin-Lindau (Dornier) D.I]]||Germany||||1918||Prototype||{{nts|7}}||<ref>Grosz, 1998

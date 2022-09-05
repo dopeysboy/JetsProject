@@ -8,12 +8,14 @@ public abstract class Jet {
 	protected double range;
 	protected double price;
 	public static final double machConv = 0.001303;
+	protected Pilot pilot;
 	
 	public Jet(String model, double speed, double range, double price) {
 		this.model = model;
 		this.speed = speed;
 		this.range = range;
 		this.price = price;
+		this.pilot = new Pilot();
 	}
 	
 	public void fly() {
@@ -79,6 +81,8 @@ public abstract class Jet {
 		builder.append(range);
 		builder.append(", price=");
 		builder.append(price);
+		builder.append(", Pilot=");
+		builder.append(pilot);
 		builder.append("]");
 		return builder.toString();
 	}
