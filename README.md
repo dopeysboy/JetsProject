@@ -30,7 +30,7 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <a name="readme-built"></a>
 <h2 align="center">Built With</h2>
-<p>This program was built with Eclipse and git, with name lists taken from wikipedia and <a href="https://raw.githubusercontent.com/hadley/data-baby-names/master/baby-names.csv>this github</a></p>
+<p>This program was built with Eclipse and git, with name lists taken from wikipedia and this github: https://raw.githubusercontent.com/hadley/data-baby-names/master/baby-names.csv</p>
 <a name="readme-learned"></a>
 <h2 align="center">Things learned</h2>
 <p>I learned that eclipse runs out of memory fairly quickly (loading between 130 and 140 random jets on my machine)</p>
